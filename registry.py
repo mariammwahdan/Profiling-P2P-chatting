@@ -1,7 +1,9 @@
 from socket import *
 import threading
-import select
 import logging
+
+from oauthlib.uri_validate import port
+
 import db
 class ClientThread(threading.Thread):
     # initializations for client thread
@@ -23,3 +25,72 @@ class ClientThread(threading.Thread):
         self.udpServer = None
         print("\033[35m")
         print("New thread started for " + ip + ":" + str(port))
+
+    def run(self):
+        # locks for thread which will be used for thread synchronization
+        self.lock = threading.Lock()
+        print("\033[35m")
+        print("Connection from: " + self.ip + ":" + str(port))
+        print("\033[35m")
+        print("IP Connected: " + self.ip)
+
+        while True:
+            try:
+                # waits for incoming messages from peers
+                message = self.tcpClientSocket.recv(1024).decode().split(":")
+                logging.info("Received from " + self.ip + ":" + str(self.port) + " -> " + " ".join(message))
+                #   Create Account   #
+                if message[0] == "CRT":
+                    # Create Account is sent to peer,
+                    # if an account with this username already exists
+                    if db.is_account_exist(message[1]):
+                        response = "EXST"
+                        print("\033[35m")
+                        print("From-> " + self.ip + ":" + str(self.port) + " " + response)
+                        logging.info("Send to " + self.ip + ":" + str(self.port) + " -> " + response)
+                        self.tcpClientSocket.send(response.encode())
+                    # join-success is sent to peer,
+                    # if an account with this username is not exist, and the account is created
+                    else:
+                        db.register(message[1], message[2])
+                        response = "OK"
+                        logging.info("Send to " + self.ip + ":" + str(self.port) + " -> " + response)
+                        self.tcpClientSocket.send(response.encode())
+
+                elif message[0] == "LOG":
+                    # WCRE is sent to peer,
+                    # if an account with the username does not exist
+                    if not db.is_account_exist(message[1]):
+                        response = "WCRE"
+                        logging.info("Send to " + self.ip + ":" + str(self.port) + " -> " + response)
+                        self.tcpClientSocket.send(response.encode())
+                    # AON is sent to peer,
+                    # if an account with the username already online
+                    elif db.is_account_online(message[1]):
+                        response = "AON"
+                        logging.info("Send to " + self.ip + ":" + str(self.port) + " -> " + response)
+                        self.tcpClientSocket.send(response.encode())
+                    # OK is sent to peer,
+                    # if an account with the username exists and not online
+                    else:
+                        # retrieves the account's password, and checks if the one entered by the user is correct
+                        retrievedPass = db.get_password(message[1])
+                        # if password is correct, then peer's thread is added to threads list
+                        # peer is added to db with its username, port number, and ip address
+                        if retrievedPass == message[2]:
+                            self.username = message[1]
+                            self.lock.acquire()
+
+
+                            db.user_login(message[1], self.ip, message[3])
+                            # OK is sent to peer,
+                            # and a udp server thread is created for this peer, and thread is started
+                            # timer thread of the udp server is started
+                            response = "OK"
+                            logging.info("Send to " + self.ip + ":" + str(self.port) + " -> " + response)
+            finally:
+                self.lock.release()
+
+
+
+
