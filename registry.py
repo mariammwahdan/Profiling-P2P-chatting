@@ -80,6 +80,10 @@ class ClientThread(threading.Thread):
                         if retrievedPass == message[2]:
                             self.username = message[1]
                             self.lock.acquire()
+                            try:
+                                tcpThreads[self.username] = self
+                            finally:
+                                self.lock.release()
 
 
                             db.user_login(message[1], self.ip, message[3])
@@ -99,6 +103,16 @@ class ClientThread(threading.Thread):
                     if len(message) > 1 and message[1] is not None and db.is_account_online(message[1]):
                         db.user_logout(message[1])
                         self.lock.acquire()
+                        try:
+                            if message[1] in tcpThreads:
+                                del tcpThreads[message[1]]
+                        finally:
+                            self.lock.release()
+                        print("\033[35m")
+                        print(self.ip + ":" + str(self.port) + " is logged out")
+                        self.tcpClientSocket.close()
+                        self.udpServer.timer.cancel()
+                        break
 
                     else:
                         self.tcpClientSocket.close()
@@ -124,10 +138,102 @@ class ClientThread(threading.Thread):
                         logging.info("Send to " + self.ip + ":" + str(self.port) + " -> " + response)
                         self.tcpClientSocket.send(response.encode())
 
+                elif message[0] == "GOP":
+                    online_peers = db.get_online_peers()
+                    response = "NOP:" + str(len(online_peers)) + "\nPeers:"
+                    for peer in online_peers:
+                        response += peer
+                        response += "\n"
 
-            finally:
-                self.lock.release()
+                    self.tcpClientSocket.send(response.encode())
+
+                elif message[0] == "CCR":
+                    if db.is_roomName_exist(message[1]):
+                        response = "EXST"
+                        print("\033[35m")
+                        print("From-> " + self.ip + ":" + str(self.port) + " " + response)
+                        logging.info("Send to " + self.ip + ":" + str(self.port) + " -> " + response)
+                        self.tcpClientSocket.send(response.encode())
+                    # join-success is sent to peer,
+                    # if an account with this username is not exist, and the account is created
+                    else:
+                        db.createChatRoom(message[1], message[2], self.ip, message[3])
+                        response = "OK"
+                        logging.info("Send to " + self.ip + ":" + str(self.port) + " -> " + response)
+                        self.tcpClientSocket.send(response.encode())
+
+                elif message[0] == "JCR":
+                    if not db.is_roomName_exist(message[1]):
+                        response = "NOTEXST"
+                        print("\033[35m")
+                        print("From-> " + self.ip + ":" + str(self.port) + " " + response)
+                        logging.info("Send to " + self.ip + ":" + str(self.port) + " -> " + response)
+                        self.tcpClientSocket.send(response.encode())
+                    else:
+                        print('ana da5lt')
+                        db.addChatRoomMember(message[1], message[2], self.ip, message[3])
+                        members = db.getRoomMembers(message[1])
+                        IPs = members["userIPs"]
+                        names = members["userNames"]
+                        ports = members["userPorts"]
+                        # logging.info(members)
+                        # logging.info(str(IPs))
+                        # logging.info(names)
+                        # logging.info(ports)
+                        # logging.info("Length of IPs: " + str(len(IPs)))
+                        # logging.info("Length of names: " + str(len(names)))
+                        # logging.info("Length of ports: " + str(len(ports)))
+
+                        for i in range(len(IPs)):
+                            if names[i] == message[2]:
+                                continue
+                            update = "JUPDT:" + message[2] + ":" + self.ip + ":" + str(message[3])
+                            print("message is ", update)
+                            print("IP is ", IPs[i], "port is ", ports[i])
+                            self.udpSocket.sendto(update.encode(), (IPs[i], int(ports[i])))
+                        response = "OK\n"
+                        for i in range(len(IPs)):
+                            response += (names[i] + ":" + str(IPs[i]) + ":" + str(ports[i]))
+                            if i < len(IPs) - 1:  # If it's not the last iteration
+                                response += "\n"
+
+                        logging.info("Send to " + self.ip + ":" + str(self.port) + " -> " + str(response))
+                        try:
+                            self.tcpClientSocket.send(response.encode())
+                        except Exception as e:
+                            logging.error("Error sending message: " + str(e))
+
+                elif message[0] == "XUPDT":
+                    members = db.getRoomMembers(message[1])
+                    IPs = members["userIPs"]
+                    names = members["userNames"]
+                    ports = members["userPorts"]
+                    remove = "XUPDT:" + message[2] + ":" + self.ip + ":" + str(message[3])
+                    db.removeRoomMember(message[1], message[2], self.ip, message[3])
+                    for i in range(len(IPs)):
+                        if names[i] == message[2]:
+                            continue
+                        self.udpSocket.sendto(remove.encode(), (IPs[i], int(ports[i])))
+                    if len(IPs) == 1:
+                        db.removeRoom(message[1])
+
+                elif message[0] == "GCR":
+                    chatrooms = db.getRooms()
+                    response = "NOCR:" + str(len(chatrooms)) + "\nRooms:"
+                    for room in chatrooms:
+                        response += room
+                        response += "\n"
+                    self.tcpClientSocket.send(response.encode())
+            except OSError as oErr:
+                pass
+                # logging.error("OSError: {0}".format(oErr))
+
+                # function for resettin the timeout for the udp timer thread
+
+        def resetTimeout(self):
+            self.udpServer.resetTimer()
 
 
 
+tcpThreads = {}
 
