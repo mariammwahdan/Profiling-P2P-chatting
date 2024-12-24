@@ -54,3 +54,15 @@ class DB:
     # logs out the user
     def user_logout(self, username):
         self.db.online_peers.delete_one({"username": username})
+
+    # retrieves the ip address and the port number of the username
+    def get_peer_ip_port(self, username):
+        res = self.db.online_peers.find_one({"username": username})
+        return (res["ip"], res["port"])
+
+    # returns a list of online users
+    def get_online_peers(self):
+        online_peers_list = list()
+        for online_peer in self.db.online_peers.find():
+            online_peers_list.append(online_peer['username'])
+        return online_peers_list
