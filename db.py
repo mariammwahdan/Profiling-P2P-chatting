@@ -31,3 +31,26 @@ class DB:
     # retrieves the password for a given username
     def get_password(self, username):
         return self.db.accounts.find_one({"username": username})["password"]
+
+  # checks if an account with the username online
+    def is_account_online(self, username):
+        if self.db.online_peers.count_documents({"username": username}) > 0:
+            return True
+        else:
+            return False
+
+
+#logs in the user
+    def user_login(self, username, ip, port):
+        online_peer = {
+            "username": username,
+            "ip": ip,
+            "port": port
+        }
+        self.db.online_peers.insert_one(online_peer)
+
+
+
+    # logs out the user
+    def user_logout(self, username):
+        self.db.online_peers.delete_one({"username": username})
