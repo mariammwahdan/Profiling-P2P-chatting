@@ -88,6 +88,43 @@ class ClientThread(threading.Thread):
                             # timer thread of the udp server is started
                             response = "OK"
                             logging.info("Send to " + self.ip + ":" + str(self.port) + " -> " + response)
+
+                #   LOGOUT  #
+                elif message[0] == "LGO":
+                    # if user is online,
+                    # removes the user from onlinePeers list
+                    # and removes the thread for this user from tcpThreads
+                    # socket is closed and timer thread of the udp for this
+                    # user is cancelled
+                    if len(message) > 1 and message[1] is not None and db.is_account_online(message[1]):
+                        db.user_logout(message[1])
+                        self.lock.acquire()
+
+                    else:
+                        self.tcpClientSocket.close()
+                        break
+                #   SEARCH  #
+                elif message[0] == "SRCH":
+                    # checks if an account with the username exists
+                    if db.is_account_exist(message[1]):
+                        # checks if the account is online
+                        # and sends the related response to peer
+                        if db.is_account_online(message[1]):
+                            peer_info = db.get_peer_ip_port(message[1])
+                            response = "IP: " + peer_info[0] + ":" + peer_info[1]
+                            logging.info("Send to " + self.ip + ":" + str(self.port) + " -> " + response)
+                            self.tcpClientSocket.send(response.encode())
+                        else:
+                            response = "NON"
+                            logging.info("Send to " + self.ip + ":" + str(self.port) + " -> " + response)
+                            self.tcpClientSocket.send(response.encode())
+                    # enters if username does not exist
+                    else:
+                        response = "NOTEXST"
+                        logging.info("Send to " + self.ip + ":" + str(self.port) + " -> " + response)
+                        self.tcpClientSocket.send(response.encode())
+
+
             finally:
                 self.lock.release()
 
