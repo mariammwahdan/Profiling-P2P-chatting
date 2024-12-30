@@ -1,0 +1,2935 @@
+2024-12-25 11:33:09,355 - INFO - Send to 192.168.1.46:15600 -> CRT:user1:e6c3da5b206634d7f3f3586d747ffdb36b5c675757b380c6a5fe5c570c714349
+2024-12-25 11:33:09,355 - INFO - Send to 192.168.1.46:15600 -> CRT:user2:1ba3d16e9881959f8c9a9762854f72c6e6321cdd44358a10a4e939033117eab9
+2024-12-25 11:33:09,356 - INFO - Send to 192.168.1.46:15600 -> CRT:user3:3acb59306ef6e660cf832d1d34c4fba3d88d616f0bb5c2a9e0f82d18ef6fc167
+2024-12-25 11:33:09,356 - INFO - Send to 192.168.1.46:15600 -> CRT:user4:a417b5dc3d06d15d91c6687e27fc1705ebc56b3b2d813abe03066e5643fe4e74
+2024-12-25 11:33:09,357 - INFO - Send to 192.168.1.46:15600 -> CRT:user5:0eeac8171768d0cdef3a20fee6db4362d019c91e10662a6b55186336e1a42778
+2024-12-25 11:33:09,357 - INFO - Send to 192.168.1.46:15600 -> CRT:user6:5c4950c94a3461441c356afa783f76b83b38fd65f730f291403efbcc798acc1f
+2024-12-25 11:33:09,357 - INFO - Send to 192.168.1.46:15600 -> CRT:user7:1526f5e0e31d42fe1c3664ce923ac22ac1333417a90b32043797ac454cd03112
+2024-12-25 11:33:09,359 - INFO - Send to 192.168.1.46:15600 -> CRT:user16:f0c28ba3fd9e0dcdcd0470acfcb98cc5a58d7d93422dbbefb930455ef714c87d
+2024-12-25 11:33:09,360 - INFO - Received from 192.168.1.46 -> OK
+2024-12-25 11:33:09,360 - INFO - Send to 192.168.1.46:15600 -> CRT:user24:cafdc894eacc597ad76db1a750ccb876d4ed69c73b7d3d23f5e3a9e3b5c9fc2e
+2024-12-25 11:33:09,360 - INFO - User 1: Account created successfully.
+2024-12-25 11:33:09,360 - INFO - Send to 192.168.1.46:15600 -> LOG:user1:e6c3da5b206634d7f3f3586d747ffdb36b5c675757b380c6a5fe5c570c714349:15001
+2024-12-25 11:33:09,361 - INFO - Send to 192.168.1.46:15600 -> CRT:user31:3b3ad733c8571384c133694595c33d96c638b36f08a484bd0ad38bf312fdb294
+2024-12-25 11:33:09,362 - INFO - Received from 192.168.1.46 -> EXST
+2024-12-25 11:33:09,362 - INFO - User 3: Account created successfully.
+2024-12-25 11:33:09,362 - INFO - Send to 192.168.1.46:15600 -> LOG:user3:3acb59306ef6e660cf832d1d34c4fba3d88d616f0bb5c2a9e0f82d18ef6fc167:15003
+2024-12-25 11:33:09,364 - INFO - Received from 192.168.1.46 -> EXST
+2024-12-25 11:33:09,364 - INFO - Send to 192.168.1.46:15600 -> CRT:user46:3f1b954c84d8216e09ae793664571dedb1e1bcc9a2bfdc2b6dc58db9a24fa7de
+2024-12-25 11:33:09,364 - INFO - User 4: Account created successfully.
+2024-12-25 11:33:09,364 - INFO - Send to 192.168.1.46:15600 -> LOG:user4:a417b5dc3d06d15d91c6687e27fc1705ebc56b3b2d813abe03066e5643fe4e74:15004
+2024-12-25 11:33:09,365 - INFO - Received from 192.168.1.46 -> OK
+2024-12-25 11:33:09,365 - INFO - Received from 192.168.1.46 -> OK
+2024-12-25 11:33:09,365 - INFO - User 3: Logged in successfully.
+2024-12-25 11:33:09,366 - INFO - User 1: Logged in successfully.
+2024-12-25 11:33:09,366 - INFO - Send to 192.168.1.46:15600 -> GOP
+2024-12-25 11:33:09,367 - INFO - Received from 192.168.1.46 -> WCRE
+2024-12-25 11:33:09,367 - INFO - Received from 192.168.1.46 -> N O P : 2 
+ P e e r s : u s e r 1 
+ u s e r 3 
+
+2024-12-25 11:33:09,367 - INFO - User 4: Logged in successfully.
+2024-12-25 11:33:09,368 - INFO - Received from 192.168.1.46 -> EXST
+2024-12-25 11:33:09,368 - INFO - Send to 192.168.1.46:15600 -> SRCH:user42
+2024-12-25 11:33:09,368 - INFO - User 1: Operation <lambda> completed successfully.
+2024-12-25 11:33:09,368 - INFO - Send to 192.168.1.46:15600 -> GOP
+2024-12-25 11:33:09,368 - INFO - User 5: Account created successfully.
+2024-12-25 11:33:09,368 - INFO - Send to 192.168.1.46:15600 -> LOG:user5:0eeac8171768d0cdef3a20fee6db4362d019c91e10662a6b55186336e1a42778:15005
+2024-12-25 11:33:09,369 - INFO - Received from 192.168.1.46 -> EXST
+2024-12-25 11:33:09,369 - INFO - Received from 192.168.1.46 -> N O P : 2 
+ P e e r s : u s e r 1 
+ u s e r 3 
+
+2024-12-25 11:33:09,369 - INFO - Received from 192.168.1.46 -> NON
+2024-12-25 11:33:09,370 - INFO - User 6: Account created successfully.
+2024-12-25 11:33:09,370 - INFO - Send to 192.168.1.46:15600 -> LOG:user6:5c4950c94a3461441c356afa783f76b83b38fd65f730f291403efbcc798acc1f:15006
+2024-12-25 11:33:09,370 - INFO - User 1: Operation <lambda> completed successfully.
+2024-12-25 11:33:09,370 - INFO - User 4: Operation <lambda> completed successfully.
+2024-12-25 11:33:09,370 - INFO - Send to 192.168.1.46:15600 -> GCR
+2024-12-25 11:33:09,371 - INFO - Received from 192.168.1.46 -> WCRE
+2024-12-25 11:33:09,371 - INFO - User 5: Logged in successfully.
+2024-12-25 11:33:09,371 - INFO - Send to 192.168.1.46:15600 -> SRCH:user41
+2024-12-25 11:33:09,372 - INFO - Received from 192.168.1.46 -> N O C R : 1 7 
+ R o o m s : r o o m u s e r 4 3 
+ r o o m u s e r 8 
+ r o o m u s e r 2 
+ r o o m u s e r 1 0 
+ r o o m u s e r 2 3 
+ r o o m u s e r 1 6 
+ r o o m u s e r 7 
+ r o o m u s e r 1 5 
+ r o o m u s e r 1 2 
+ r o o m u s e r 3 2 
+ r o o m u s e r 4 5 
+ r o o m u s e r 1 1 
+ r o o m u s e r 9 
+ r o o m u s e r 1 3 
+ r o o m u s e r 2 8 
+ r o o m u s e r 1 4 
+ r o o m u s e r 4 0 
+
+2024-12-25 11:33:09,372 - INFO - User 4: Operation <lambda> completed successfully.
+2024-12-25 11:33:09,372 - INFO - Received from 192.168.1.46 -> OK
+2024-12-25 11:33:09,373 - INFO - User 7: Account created successfully.
+2024-12-25 11:33:09,373 - INFO - Received from 192.168.1.46 -> OK
+2024-12-25 11:33:09,373 - INFO - Send to 192.168.1.46:15600 -> LOG:user7:1526f5e0e31d42fe1c3664ce923ac22ac1333417a90b32043797ac454cd03112:15007
+2024-12-25 11:33:09,373 - INFO - Send to 192.168.1.46:15600 -> CCR:room4:user4:62214
+2024-12-25 11:33:09,373 - INFO - Send to 192.168.1.46:15600 -> CCR:room1:user1:62215
+2024-12-25 11:33:09,373 - INFO - Send to 192.168.1.46:15600 -> CCR:room3:user3:62216
+2024-12-25 11:33:09,373 - INFO - User 6: Logged in successfully.
+2024-12-25 11:33:09,374 - INFO - Received from 192.168.1.46 -> NON
+2024-12-25 11:33:09,374 - INFO - Send to 192.168.1.46:15600 -> SRCH:user19
+2024-12-25 11:33:09,374 - INFO - User 5: Operation <lambda> completed successfully.
+2024-12-25 11:33:09,374 - INFO - Send to 192.168.1.46:15600 -> CCR:room5:user5:62218
+2024-12-25 11:33:09,377 - INFO - Received from 192.168.1.46 -> OK
+2024-12-25 11:33:09,377 - INFO - Received from 192.168.1.46 -> OK
+2024-12-25 11:33:09,377 - INFO - Received from 192.168.1.46 -> OK
+2024-12-25 11:33:09,377 - INFO - Received from 192.168.1.46 -> OK
+2024-12-25 11:33:09,378 - ERROR - User 4: Error during operation <lambda> - 'NoneType' object has no attribute 'isInChatRoom'
+2024-12-25 11:33:09,378 - INFO - Received from 192.168.1.46 -> OK
+2024-12-25 11:33:09,378 - INFO - Send to 192.168.1.46:15600 -> SRCH:user41
+2024-12-25 11:33:09,378 - ERROR - User 1: Error during operation <lambda> - 'NoneType' object has no attribute 'isInChatRoom'
+2024-12-25 11:33:09,378 - INFO - Received from 192.168.1.46 -> EXST
+2024-12-25 11:33:09,379 - INFO - Send to 192.168.1.46:15600 -> SRCH:user31
+2024-12-25 11:33:09,379 - INFO - Received from 192.168.1.46 -> NON
+2024-12-25 11:33:09,379 - INFO - User 7: Logged in successfully.
+2024-12-25 11:33:09,379 - ERROR - User 5: Error during operation <lambda> - 'NoneType' object has no attribute 'isInChatRoom'
+2024-12-25 11:33:09,380 - INFO - Send to 192.168.1.46:15600 -> SRCH:user21
+2024-12-25 11:33:09,380 - INFO - Send to 192.168.1.46:15600 -> CCR:room7:user7:62220
+2024-12-25 11:33:09,380 - ERROR - User 3: Error during operation <lambda> - 'NoneType' object has no attribute 'isInChatRoom'
+2024-12-25 11:33:09,380 - INFO - User 16: Account created successfully.
+2024-12-25 11:33:09,380 - INFO - Send to 192.168.1.46:15600 -> LOG:user16:f0c28ba3fd9e0dcdcd0470acfcb98cc5a58d7d93422dbbefb930455ef714c87d:15016
+2024-12-25 11:33:09,380 - INFO - User 6: Operation <lambda> completed successfully.
+2024-12-25 11:33:09,381 - INFO - Send to 192.168.1.46:15600 -> SRCH:user9
+2024-12-25 11:33:09,381 - INFO - Send to 192.168.1.46:15600 -> CCR:room3:user3:62221
+2024-12-25 11:33:09,382 - INFO - Received from 192.168.1.46 -> NON
+2024-12-25 11:33:09,382 - INFO - User 4: Operation <lambda> completed successfully.
+2024-12-25 11:33:09,382 - INFO - Send to 192.168.1.46:15600 -> SRCH:user34
+2024-12-25 11:33:09,383 - INFO - Received from 192.168.1.46 -> OK
+2024-12-25 11:33:09,383 - INFO - User 2: Account created successfully.
+2024-12-25 11:33:09,383 - INFO - Send to 192.168.1.46:15600 -> LOG:user2:1ba3d16e9881959f8c9a9762854f72c6e6321cdd44358a10a4e939033117eab9:15002
+2024-12-25 11:33:09,383 - INFO - Received from 192.168.1.46 -> NOTEXST
+2024-12-25 11:33:09,383 - INFO - User 1: Operation <lambda> completed successfully.
+2024-12-25 11:33:09,384 - INFO - Send to 192.168.1.46:15600 -> CCR:room1:user1:62222
+2024-12-25 11:33:09,384 - INFO - Received from 192.168.1.46 -> OK
+2024-12-25 11:33:09,385 - ERROR - User 7: Error during operation <lambda> - 'NoneType' object has no attribute 'isInChatRoom'
+2024-12-25 11:33:09,385 - INFO - Send to 192.168.1.46:15600 -> CCR:room7:user7:62223
+2024-12-25 11:33:09,385 - INFO - Received from 192.168.1.46 -> NON
+2024-12-25 11:33:09,385 - INFO - User 6: Operation <lambda> completed successfully.
+2024-12-25 11:33:09,386 - INFO - Send to 192.168.1.46:15600 -> CCR:room6:user6:62224
+2024-12-25 11:33:09,386 - INFO - Received from 192.168.1.46 -> WCRE
+2024-12-25 11:33:09,386 - INFO - Received from 192.168.1.46 -> NON
+2024-12-25 11:33:09,386 - INFO - Received from 192.168.1.46 -> EXST
+2024-12-25 11:33:09,386 - INFO - Received from 192.168.1.46 -> NON
+2024-12-25 11:33:09,386 - INFO - User 16: Logged in successfully.
+2024-12-25 11:33:09,387 - INFO - User 4: Operation <lambda> completed successfully.
+2024-12-25 11:33:09,387 - INFO - Send to 192.168.1.46:15600 -> SRCH:user44
+2024-12-25 11:33:09,387 - ERROR - User 4: Fatal error - can only concatenate str (not "NoneType") to str
+2024-12-25 11:33:09,387 - INFO - User 5: Operation <lambda> completed successfully.
+2024-12-25 11:33:09,387 - INFO - User 24: Account created successfully.
+2024-12-25 11:33:09,387 - INFO - Send to 192.168.1.46:15600 -> LOG:user24:cafdc894eacc597ad76db1a750ccb876d4ed69c73b7d3d23f5e3a9e3b5c9fc2e:15024
+2024-12-25 11:33:09,387 - INFO - Send to 192.168.1.46:15600 -> CCR:room5:user5:62225
+2024-12-25 11:33:09,388 - INFO - Received from 192.168.1.46 -> OK
+2024-12-25 11:33:09,388 - INFO - User 2: Logged in successfully.
+2024-12-25 11:33:09,388 - INFO - Send to 192.168.1.46:15600 -> SRCH:user45
+2024-12-25 11:33:09,389 - INFO - Received from 192.168.1.46 -> EXST
+2024-12-25 11:33:09,389 - INFO - User 3: Operation <lambda> completed successfully.
+2024-12-25 11:33:09,389 - INFO - Received from 192.168.1.46 -> OK
+2024-12-25 11:33:09,390 - INFO - Send to 192.168.1.46:15600 -> CCR:room3:user3:62226
+2024-12-25 11:33:09,390 - ERROR - User 6: Error during operation <lambda> - 'NoneType' object has no attribute 'isInChatRoom'
+2024-12-25 11:33:09,390 - INFO - Received from 192.168.1.46 -> OK
+2024-12-25 11:33:09,390 - INFO - Received from 192.168.1.46 -> NON
+2024-12-25 11:33:09,390 - INFO - Send to 192.168.1.46:15600 -> CCR:room6:user6:62227
+2024-12-25 11:33:09,390 - INFO - User 31: Account created successfully.
+2024-12-25 11:33:09,390 - INFO - Send to 192.168.1.46:15600 -> LOG:user31:3b3ad733c8571384c133694595c33d96c638b36f08a484bd0ad38bf312fdb294:15031
+2024-12-25 11:33:09,391 - INFO - User 16: Operation <lambda> completed successfully.
+2024-12-25 11:33:09,391 - INFO - Send to 192.168.1.46:15600 -> SRCH:user15
+2024-12-25 11:33:09,391 - INFO - Received from 192.168.1.46 -> EXST
+2024-12-25 11:33:09,392 - INFO - User 7: Operation <lambda> completed successfully.
+2024-12-25 11:33:09,392 - INFO - Send to 192.168.1.46:15600 -> CCR:room7:user7:62229
+2024-12-25 11:33:09,392 - INFO - Received from 192.168.1.46 -> EXST
+2024-12-25 11:33:09,392 - INFO - Received from 192.168.1.46 -> WCRE
+2024-12-25 11:33:09,393 - INFO - User 1: Operation <lambda> completed successfully.
+2024-12-25 11:33:09,393 - ERROR - User 1: Fatal error - can only concatenate str (not "NoneType") to str
+2024-12-25 11:33:09,393 - INFO - User 24: Logged in successfully.
+2024-12-25 11:33:09,393 - INFO - Received from 192.168.1.46 -> NON
+2024-12-25 11:33:09,393 - INFO - Send to 192.168.1.46:15600 -> GOP
+2024-12-25 11:33:09,393 - INFO - User 2: Operation <lambda> completed successfully.
+2024-12-25 11:33:09,393 - INFO - Send to 192.168.1.46:15600 -> SRCH:user35
+2024-12-25 11:33:09,394 - INFO - Received from 192.168.1.46 -> EXST
+2024-12-25 11:33:09,394 - INFO - User 5: Operation <lambda> completed successfully.
+2024-12-25 11:33:09,394 - INFO - Send to 192.168.1.46:15600 -> GOP
+2024-12-25 11:33:09,394 - INFO - Received from 192.168.1.46 -> NON
+2024-12-25 11:33:09,395 - INFO - User 16: Operation <lambda> completed successfully.
+2024-12-25 11:33:09,395 - INFO - Send to 192.168.1.46:15600 -> GCR
+2024-12-25 11:33:09,395 - INFO - Received from 192.168.1.46 -> N O P : 6 
+ P e e r s : u s e r 1 
+ u s e r 3 
+ u s e r 6 
+ u s e r 7 
+ u s e r 2 
+ u s e r 3 1 
+
+2024-12-25 11:33:09,395 - INFO - User 24: Operation <lambda> completed successfully.
+2024-12-25 11:33:09,395 - INFO - Send to 192.168.1.46:15600 -> SRCH:user26
+2024-12-25 11:33:09,396 - INFO - Received from 192.168.1.46 -> EXST
+2024-12-25 11:33:09,396 - INFO - Received from 192.168.1.46 -> N O P : 6 
+ P e e r s : u s e r 1 
+ u s e r 3 
+ u s e r 6 
+ u s e r 7 
+ u s e r 2 
+ u s e r 3 1 
+
+2024-12-25 11:33:09,396 - INFO - Received from 192.168.1.46 -> OK
+2024-12-25 11:33:09,397 - INFO - User 3: Operation <lambda> completed successfully.
+2024-12-25 11:33:09,397 - INFO - Send to 192.168.1.46:15600 -> GCR
+2024-12-25 11:33:09,397 - INFO - User 5: Operation <lambda> completed successfully.
+2024-12-25 11:33:09,397 - INFO - Received from 192.168.1.46 -> EXST
+2024-12-25 11:33:09,397 - ERROR - User 5: Fatal error - can only concatenate str (not "NoneType") to str
+2024-12-25 11:33:09,397 - INFO - User 31: Logged in successfully.
+2024-12-25 11:33:09,397 - INFO - Received from 192.168.1.46 -> N O C R : 2 3 
+ R o o m s : r o o m u s e r 4 3 
+ r o o m u s e r 8 
+ r o o m u s e r 2 
+ r o o m u s e r 1 0 
+ r o o m u s e r 2 3 
+ r o o m u s e r 1 6 
+ r o o m u s e r 7 
+ r o o m u s e r 1 5 
+ r o o m u s e r 1 2 
+ r o o m u s e r 3 2 
+ r o o m u s e r 4 5 
+ r o o m u s e r 1 1 
+ r o o m u s e r 9 
+ r o o m u s e r 1 3 
+ r o o m u s e r 2 8 
+ r o o m u s e r 1 4 
+ r o o m u s e r 4 0 
+ r o o m 4 
+ r o o m 1 
+ r o o m 3 
+ r o o m 5 
+ r o o m 7 
+ r o o m 6 
+
+2024-12-25 11:33:09,398 - INFO - Send to 192.168.1.46:15600 -> GOP
+2024-12-25 11:33:09,398 - INFO - User 6: Operation <lambda> completed successfully.
+2024-12-25 11:33:09,398 - INFO - Send to 192.168.1.46:15600 -> GOP
+2024-12-25 11:33:09,398 - INFO - User 16: Operation <lambda> completed successfully.
+2024-12-25 11:33:09,398 - INFO - Send to 192.168.1.46:15600 -> GCR
+2024-12-25 11:33:09,398 - INFO - Received from 192.168.1.46 -> EXST
+2024-12-25 11:33:09,399 - INFO - Received from 192.168.1.46 -> NON
+2024-12-25 11:33:09,399 - INFO - User 7: Operation <lambda> completed successfully.
+2024-12-25 11:33:09,399 - INFO - User 2: Operation <lambda> completed successfully.
+2024-12-25 11:33:09,399 - INFO - Received from 192.168.1.46 -> N O C R : 2 3 
+ R o o m s : r o o m u s e r 4 3 
+ r o o m u s e r 8 
+ r o o m u s e r 2 
+ r o o m u s e r 1 0 
+ r o o m u s e r 2 3 
+ r o o m u s e r 1 6 
+ r o o m u s e r 7 
+ r o o m u s e r 1 5 
+ r o o m u s e r 1 2 
+ r o o m u s e r 3 2 
+ r o o m u s e r 4 5 
+ r o o m u s e r 1 1 
+ r o o m u s e r 9 
+ r o o m u s e r 1 3 
+ r o o m u s e r 2 8 
+ r o o m u s e r 1 4 
+ r o o m u s e r 4 0 
+ r o o m 4 
+ r o o m 1 
+ r o o m 3 
+ r o o m 5 
+ r o o m 7 
+ r o o m 6 
+
+2024-12-25 11:33:09,399 - INFO - Send to 192.168.1.46:15600 -> GCR
+2024-12-25 11:33:09,399 - INFO - Send to 192.168.1.46:15600 -> CCR:room7:user7:62231
+2024-12-25 11:33:09,400 - INFO - User 3: Operation <lambda> completed successfully.
+2024-12-25 11:33:09,400 - INFO - Received from 192.168.1.46 -> N O P : 6 
+ P e e r s : u s e r 1 
+ u s e r 3 
+ u s e r 6 
+ u s e r 7 
+ u s e r 2 
+ u s e r 3 1 
+
+2024-12-25 11:33:09,400 - INFO - Send to 192.168.1.46:15600 -> CCR:room3:user3:62232
+2024-12-25 11:33:09,400 - INFO - Received from 192.168.1.46 -> N O P : 6 
+ P e e r s : u s e r 1 
+ u s e r 3 
+ u s e r 6 
+ u s e r 7 
+ u s e r 2 
+ u s e r 3 1 
+
+2024-12-25 11:33:09,400 - INFO - User 31: Operation <lambda> completed successfully.
+2024-12-25 11:33:09,400 - INFO - Send to 192.168.1.46:15600 -> GOP
+2024-12-25 11:33:09,401 - INFO - User 6: Operation <lambda> completed successfully.
+2024-12-25 11:33:09,401 - ERROR - User 6: Fatal error - can only concatenate str (not "NoneType") to str
+2024-12-25 11:33:09,401 - INFO - Received from 192.168.1.46 -> N O C R : 2 3 
+ R o o m s : r o o m u s e r 4 3 
+ r o o m u s e r 8 
+ r o o m u s e r 2 
+ r o o m u s e r 1 0 
+ r o o m u s e r 2 3 
+ r o o m u s e r 1 6 
+ r o o m u s e r 7 
+ r o o m u s e r 1 5 
+ r o o m u s e r 1 2 
+ r o o m u s e r 3 2 
+ r o o m u s e r 4 5 
+ r o o m u s e r 1 1 
+ r o o m u s e r 9 
+ r o o m u s e r 1 3 
+ r o o m u s e r 2 8 
+ r o o m u s e r 1 4 
+ r o o m u s e r 4 0 
+ r o o m 4 
+ r o o m 1 
+ r o o m 3 
+ r o o m 5 
+ r o o m 7 
+ r o o m 6 
+
+2024-12-25 11:33:09,401 - INFO - Received from 192.168.1.46 -> NON
+2024-12-25 11:33:09,401 - INFO - User 16: Operation <lambda> completed successfully.
+2024-12-25 11:33:09,401 - INFO - Send to 192.168.1.46:15600 -> SRCH:user21
+2024-12-25 11:33:09,402 - INFO - User 24: Operation <lambda> completed successfully.
+2024-12-25 11:33:09,402 - INFO - Received from 192.168.1.46 -> N O C R : 2 3 
+ R o o m s : r o o m u s e r 4 3 
+ r o o m u s e r 8 
+ r o o m u s e r 2 
+ r o o m u s e r 1 0 
+ r o o m u s e r 2 3 
+ r o o m u s e r 1 6 
+ r o o m u s e r 7 
+ r o o m u s e r 1 5 
+ r o o m u s e r 1 2 
+ r o o m u s e r 3 2 
+ r o o m u s e r 4 5 
+ r o o m u s e r 1 1 
+ r o o m u s e r 9 
+ r o o m u s e r 1 3 
+ r o o m u s e r 2 8 
+ r o o m u s e r 1 4 
+ r o o m u s e r 4 0 
+ r o o m 4 
+ r o o m 1 
+ r o o m 3 
+ r o o m 5 
+ r o o m 7 
+ r o o m 6 
+
+2024-12-25 11:33:09,402 - INFO - Send to 192.168.1.46:15600 -> CCR:room24:user24:62233
+2024-12-25 11:33:09,402 - INFO - User 2: Operation <lambda> completed successfully.
+2024-12-25 11:33:09,402 - INFO - Send to 192.168.1.46:15600 -> GCR
+2024-12-25 11:33:09,402 - INFO - Received from 192.168.1.46 -> N O P : 6 
+ P e e r s : u s e r 1 
+ u s e r 3 
+ u s e r 6 
+ u s e r 7 
+ u s e r 2 
+ u s e r 3 1 
+
+2024-12-25 11:33:09,403 - INFO - User 31: Operation <lambda> completed successfully.
+2024-12-25 11:33:09,403 - INFO - Send to 192.168.1.46:15600 -> GCR
+2024-12-25 11:33:09,403 - INFO - Received from 192.168.1.46 -> EXST
+2024-12-25 11:33:09,403 - INFO - User 46: Account created successfully.
+2024-12-25 11:33:09,403 - INFO - Send to 192.168.1.46:15600 -> LOG:user46:3f1b954c84d8216e09ae793664571dedb1e1bcc9a2bfdc2b6dc58db9a24fa7de:15046
+2024-12-25 11:33:09,404 - INFO - Received from 192.168.1.46 -> N O C R : 2 3 
+ R o o m s : r o o m u s e r 4 3 
+ r o o m u s e r 8 
+ r o o m u s e r 2 
+ r o o m u s e r 1 0 
+ r o o m u s e r 2 3 
+ r o o m u s e r 1 6 
+ r o o m u s e r 7 
+ r o o m u s e r 1 5 
+ r o o m u s e r 1 2 
+ r o o m u s e r 3 2 
+ r o o m u s e r 4 5 
+ r o o m u s e r 1 1 
+ r o o m u s e r 9 
+ r o o m u s e r 1 3 
+ r o o m u s e r 2 8 
+ r o o m u s e r 1 4 
+ r o o m u s e r 4 0 
+ r o o m 4 
+ r o o m 1 
+ r o o m 3 
+ r o o m 5 
+ r o o m 7 
+ r o o m 6 
+
+2024-12-25 11:33:09,404 - INFO - User 2: Operation <lambda> completed successfully.
+2024-12-25 11:33:09,404 - INFO - Received from 192.168.1.46 -> EXST
+2024-12-25 11:33:09,405 - INFO - Received from 192.168.1.46 -> EXST
+2024-12-25 11:33:09,405 - INFO - Send to 192.168.1.46:15600 -> CCR:room2:user2:62234
+2024-12-25 11:33:09,405 - INFO - Received from 192.168.1.46 -> NON
+2024-12-25 11:33:09,405 - INFO - Received from 192.168.1.46 -> N O C R : 2 4 
+ R o o m s : r o o m u s e r 4 3 
+ r o o m u s e r 8 
+ r o o m u s e r 2 
+ r o o m u s e r 1 0 
+ r o o m u s e r 2 3 
+ r o o m u s e r 1 6 
+ r o o m u s e r 7 
+ r o o m u s e r 1 5 
+ r o o m u s e r 1 2 
+ r o o m u s e r 3 2 
+ r o o m u s e r 4 5 
+ r o o m u s e r 1 1 
+ r o o m u s e r 9 
+ r o o m u s e r 1 3 
+ r o o m u s e r 2 8 
+ r o o m u s e r 1 4 
+ r o o m u s e r 4 0 
+ r o o m 4 
+ r o o m 1 
+ r o o m 3 
+ r o o m 5 
+ r o o m 7 
+ r o o m 6 
+ r o o m 2 4 
+
+2024-12-25 11:33:09,405 - INFO - User 7: Operation <lambda> completed successfully.
+2024-12-25 11:33:09,405 - INFO - Received from 192.168.1.46 -> OK
+2024-12-25 11:33:09,405 - INFO - User 3: Operation <lambda> completed successfully.
+2024-12-25 11:33:09,406 - INFO - Send to 192.168.1.46:15600 -> SRCH:user37
+2024-12-25 11:33:09,406 - INFO - User 16: Operation <lambda> completed successfully.
+2024-12-25 11:33:09,406 - ERROR - User 3: Fatal error - can only concatenate str (not "NoneType") to str
+2024-12-25 11:33:09,406 - ERROR - User 16: Fatal error - can only concatenate str (not "NoneType") to str
+2024-12-25 11:33:09,406 - INFO - User 31: Operation <lambda> completed successfully.
+2024-12-25 11:33:09,406 - INFO - Send to 192.168.1.46:15600 -> GOP
+2024-12-25 11:33:09,406 - ERROR - User 24: Error during operation <lambda> - 'NoneType' object has no attribute 'isInChatRoom'
+2024-12-25 11:33:09,406 - INFO - Send to 192.168.1.46:15600 -> GOP
+2024-12-25 11:33:09,407 - INFO - Received from 192.168.1.46 -> WCRE
+2024-12-25 11:33:09,407 - INFO - User 46: Logged in successfully.
+2024-12-25 11:33:09,407 - INFO - Send to 192.168.1.46:15600 -> GCR
+2024-12-25 11:33:09,408 - INFO - Received from 192.168.1.46 -> N O P : 6 
+ P e e r s : u s e r 1 
+ u s e r 3 
+ u s e r 6 
+ u s e r 7 
+ u s e r 2 
+ u s e r 3 1 
+
+2024-12-25 11:33:09,408 - INFO - User 31: Operation <lambda> completed successfully.
+2024-12-25 11:33:09,408 - INFO - Send to 192.168.1.46:15600 -> SRCH:user36
+2024-12-25 11:33:09,408 - INFO - Received from 192.168.1.46 -> N O P : 6 
+ P e e r s : u s e r 1 
+ u s e r 3 
+ u s e r 6 
+ u s e r 7 
+ u s e r 2 
+ u s e r 3 1 
+
+2024-12-25 11:33:09,409 - INFO - User 24: Operation <lambda> completed successfully.
+2024-12-25 11:33:09,409 - INFO - Received from 192.168.1.46 -> OK
+2024-12-25 11:33:09,409 - INFO - Send to 192.168.1.46:15600 -> GOP
+2024-12-25 11:33:09,409 - ERROR - User 2: Error during operation <lambda> - 'NoneType' object has no attribute 'isInChatRoom'
+2024-12-25 11:33:09,409 - ERROR - User 2: Fatal error - can only concatenate str (not "NoneType") to str
+2024-12-25 11:33:09,409 - INFO - Received from 192.168.1.46 -> NON
+2024-12-25 11:33:09,409 - INFO - Received from 192.168.1.46 -> N O C R : 2 5 
+ R o o m s : r o o m u s e r 4 3 
+ r o o m u s e r 8 
+ r o o m u s e r 2 
+ r o o m u s e r 1 0 
+ r o o m u s e r 2 3 
+ r o o m u s e r 1 6 
+ r o o m u s e r 7 
+ r o o m u s e r 1 5 
+ r o o m u s e r 1 2 
+ r o o m u s e r 3 2 
+ r o o m u s e r 4 5 
+ r o o m u s e r 1 1 
+ r o o m u s e r 9 
+ r o o m u s e r 1 3 
+ r o o m u s e r 2 8 
+ r o o m u s e r 1 4 
+ r o o m u s e r 4 0 
+ r o o m 4 
+ r o o m 1 
+ r o o m 3 
+ r o o m 5 
+ r o o m 7 
+ r o o m 6 
+ r o o m 2 4 
+ r o o m 2 
+
+2024-12-25 11:33:09,409 - INFO - User 7: Operation <lambda> completed successfully.
+2024-12-25 11:33:09,410 - ERROR - User 7: Fatal error - can only concatenate str (not "NoneType") to str
+2024-12-25 11:33:09,410 - INFO - User 46: Operation <lambda> completed successfully.
+2024-12-25 11:33:09,410 - INFO - Send to 192.168.1.46:15600 -> SRCH:user36
+2024-12-25 11:33:09,410 - INFO - Received from 192.168.1.46 -> N O P : 6 
+ P e e r s : u s e r 1 
+ u s e r 3 
+ u s e r 6 
+ u s e r 7 
+ u s e r 2 
+ u s e r 3 1 
+
+2024-12-25 11:33:09,411 - INFO - User 24: Operation <lambda> completed successfully.
+2024-12-25 11:33:09,411 - ERROR - User 24: Fatal error - can only concatenate str (not "NoneType") to str
+2024-12-25 11:33:09,411 - INFO - Received from 192.168.1.46 -> NON
+2024-12-25 11:33:09,412 - INFO - User 31: Operation <lambda> completed successfully.
+2024-12-25 11:33:09,412 - ERROR - User 31: Fatal error - can only concatenate str (not "NoneType") to str
+2024-12-25 11:33:09,413 - INFO - Received from 192.168.1.46 -> NON
+2024-12-25 11:33:09,413 - INFO - User 46: Operation <lambda> completed successfully.
+2024-12-25 11:33:09,414 - INFO - Send to 192.168.1.46:15600 -> CCR:room46:user46:62235
+2024-12-25 11:33:09,417 - INFO - Received from 192.168.1.46 -> OK
+2024-12-25 11:33:09,417 - ERROR - User 46: Error during operation <lambda> - 'NoneType' object has no attribute 'isInChatRoom'
+2024-12-25 11:33:09,417 - INFO - Send to 192.168.1.46:15600 -> GOP
+2024-12-25 11:33:09,419 - INFO - Received from 192.168.1.46 -> N O P : 6 
+ P e e r s : u s e r 1 
+ u s e r 3 
+ u s e r 6 
+ u s e r 7 
+ u s e r 2 
+ u s e r 3 1 
+
+2024-12-25 11:33:09,419 - INFO - User 46: Operation <lambda> completed successfully.
+2024-12-25 11:33:09,419 - INFO - Send to 192.168.1.46:15600 -> GOP
+2024-12-25 11:33:09,420 - INFO - Received from 192.168.1.46 -> N O P : 6 
+ P e e r s : u s e r 1 
+ u s e r 3 
+ u s e r 6 
+ u s e r 7 
+ u s e r 2 
+ u s e r 3 1 
+
+2024-12-25 11:33:09,420 - INFO - User 46: Operation <lambda> completed successfully.
+2024-12-25 11:33:09,420 - ERROR - User 46: Fatal error - can only concatenate str (not "NoneType") to str
+2024-12-25 11:33:09,866 - INFO - Send to 192.168.1.46:15600 -> CRT:user17:4a6b7fa040bcfc734a113fee84d3789c0a626d70d029afad0d1c3e7b6c562e14
+2024-12-25 11:33:09,866 - INFO - Send to 192.168.1.46:15600 -> CRT:user8:c8fea5b0b76dc690feaf5544749f99b40e78e2a37c0e867a086696509416302a
+2024-12-25 11:33:09,866 - INFO - Send to 192.168.1.46:15600 -> CRT:user19:871431053023291d24b403f1f9d761c6f01b3050a0a83cd9d9759a970f8d4d92
+2024-12-25 11:33:09,866 - INFO - Send to 192.168.1.46:15600 -> CRT:user14:b78f24953963ac5ed773d6ec83120e3b1a65510201dc09ed2ed9e9781ba88870
+2024-12-25 11:33:09,866 - INFO - Send to 192.168.1.46:15600 -> CRT:user10:b35892cb8b089e03e4420b94df688122a2b76d4ad0f8b94ad20808bb029e48a5
+2024-12-25 11:33:09,866 - INFO - Send to 192.168.1.46:15600 -> CRT:user23:8893186d24cce07e1c82f2e020d41177e699318b4be9535483fdf55edf58cd50
+2024-12-25 11:33:09,866 - INFO - Send to 192.168.1.46:15600 -> CRT:user11:8057f787ebd8b4f9d40f53d7fbbfcbdde7067c1a074435b68f525b3de0e2ac2b
+2024-12-25 11:33:09,866 - INFO - Send to 192.168.1.46:15600 -> CRT:user47:dbb70b94b6b192a1085e8056872daa4eb24002d47c82e88b1323f1a5882567ba
+2024-12-25 11:33:09,866 - INFO - Send to 192.168.1.46:15600 -> CRT:user9:2d4589473fb3f4581d7452cd25182159d68d2a50056a0cce35a529b010e32f2b
+2024-12-25 11:33:09,866 - INFO - Send to 192.168.1.46:15600 -> CRT:user15:b5a4ec869015095060b1171791334513f741177c4011e2c5c36e3e37a5ff8e5f
+2024-12-25 11:33:09,866 - INFO - Send to 192.168.1.46:15600 -> CRT:user21:2d6b3bb57cb9e22fa36516172ef096b30ae00d08eedc1499c599b6269975521d
+2024-12-25 11:33:09,866 - INFO - Send to 192.168.1.46:15600 -> CRT:user26:45e17065ddc6fb3a682f7732df5804652952dbe1f5ca5377a661515a8fcf66be
+2024-12-25 11:33:09,866 - INFO - Send to 192.168.1.46:15600 -> CRT:user18:b99ddd77e59c96b13b64b3abe1902db4c0a76dabf8622aa6c71f8f5670be6625
+2024-12-25 11:33:09,866 - INFO - Send to 192.168.1.46:15600 -> CRT:user30:85fcbe6bf830f23209ea6a932921e8da31a653a24a20cb84e75c4997e505690b
+2024-12-25 11:33:09,866 - INFO - Send to 192.168.1.46:15600 -> CRT:user22:d0f82756c4d40d20e1fdbc90cf4da4adff02fe23b355687525880514642f764e
+2024-12-25 11:33:09,867 - INFO - Send to 192.168.1.46:15600 -> CRT:user12:fdac810d0c09f25c5ddcee9976ab1f1ae1973dba7c65152d95b0937bc2a6c883
+2024-12-25 11:33:09,867 - INFO - Send to 192.168.1.46:15600 -> CRT:user48:ffe4daf45af0e803fbe1fba2de5c7f7644f30b71ddb082100779d7884e0291c2
+2024-12-25 11:33:09,867 - INFO - Send to 192.168.1.46:15600 -> CRT:user29:53f6f072e26d36b9e55d5dc828872856d5286f18ce3818d367f9e4473e464a66
+2024-12-25 11:33:09,867 - INFO - Send to 192.168.1.46:15600 -> CRT:user13:1e53de2a2b4ab888cc24002ef8832d433b21956ab83ddeef989c8224b5c8f9f2
+2024-12-25 11:33:09,867 - INFO - Send to 192.168.1.46:15600 -> CRT:user33:0756810289814362efbea8bb826fea0a7bc4318a7f22a4b27b48290cd39951a3
+2024-12-25 11:33:09,867 - INFO - Send to 192.168.1.46:15600 -> CRT:user37:1a31ac086ebf1341c916929e6d982767cd8568887d7c930ba8abd062afa08eac
+2024-12-25 11:33:09,867 - INFO - Send to 192.168.1.46:15600 -> CRT:user25:0028e1c0d2c60966390545414567d33bca9f0165fece6d0109c59a3f29b5fdd0
+2024-12-25 11:33:09,867 - INFO - Send to 192.168.1.46:15600 -> CRT:user34:94cd5db06baf087fd56c0042adc1deb162d271acfb8b3eb0277069517998d489
+2024-12-25 11:33:09,867 - INFO - Send to 192.168.1.46:15600 -> CRT:user36:133f8a05107e5442771c85da3dec70050ae5f3273849326b4a4e2ceaab2ef058
+2024-12-25 11:33:09,867 - INFO - Send to 192.168.1.46:15600 -> CRT:user45:64bf83fcf172a284e3db6b4cc76bb175184ee9dd57e77f0421e3e401ea3858e0
+2024-12-25 11:33:09,867 - INFO - Send to 192.168.1.46:15600 -> CRT:user41:a8a5146b1f97c2c8987ccb3a87d2f30b8aa258c2a32cb96115bf381d42df875c
+2024-12-25 11:33:09,867 - INFO - Send to 192.168.1.46:15600 -> CRT:user38:b64171fda74426604480b9bf7c10ccdc2ebc80266c8667c42346f54ce87d4dec
+2024-12-25 11:33:09,867 - INFO - Send to 192.168.1.46:15600 -> CRT:user39:099646084abbbc2c403c480bea87e7de23ce18db73a3e28251effef3ed49f1ea
+2024-12-25 11:33:09,867 - INFO - Send to 192.168.1.46:15600 -> CRT:user28:034a0cdf079dfa3ca924e07e3c509bbf50768d1949b021c0ea0030cff80ba4d1
+2024-12-25 11:33:09,867 - INFO - Send to 192.168.1.46:15600 -> CRT:user35:5a66c7ba1398dd71c92a77cc7647c4183e6bf97b227e441bb2674a319b184e63
+2024-12-25 11:33:09,867 - INFO - Send to 192.168.1.46:15600 -> CRT:user42:de3543c757d459090b9adaf9a80a54d54724a0f1600d4c77d6017dde58cf1189
+2024-12-25 11:33:09,867 - INFO - Send to 192.168.1.46:15600 -> CRT:user44:147eb7dd0f4c59120be8adb20f9dc4d4a0ccb27a0d48d7546dfa171dd980f075
+2024-12-25 11:33:09,867 - INFO - Send to 192.168.1.46:15600 -> CRT:user32:451a8149ebd58dbd064e3337c6de5d4f4bb08cd70bbbd48d62a205bd706b6bb0
+2024-12-25 11:33:09,867 - INFO - Send to 192.168.1.46:15600 -> CRT:user27:43b3ec9ea3961a319d37b4cc775d3f43f68709b62a93db10dd6c598137f28732
+2024-12-25 11:33:09,867 - INFO - Send to 192.168.1.46:15600 -> CRT:user20:51d11024031a8951b4722671adfc8587538f5e5417206e7862e60752758a5c35
+2024-12-25 11:33:09,869 - ERROR - User 25: Fatal error - [WinError 10054] An existing connection was forcibly closed by the remote host
+2024-12-25 11:33:09,869 - ERROR - User 34: Fatal error - [WinError 10054] An existing connection was forcibly closed by the remote host
+2024-12-25 11:33:09,869 - ERROR - User 45: Fatal error - [WinError 10054] An existing connection was forcibly closed by the remote host
+2024-12-25 11:33:09,869 - ERROR - User 41: Fatal error - [WinError 10054] An existing connection was forcibly closed by the remote host
+2024-12-25 11:33:09,869 - ERROR - User 39: Fatal error - [WinError 10054] An existing connection was forcibly closed by the remote host
+2024-12-25 11:33:09,869 - ERROR - User 28: Fatal error - [WinError 10054] An existing connection was forcibly closed by the remote host
+2024-12-25 11:33:09,869 - ERROR - User 35: Fatal error - [WinError 10054] An existing connection was forcibly closed by the remote host
+2024-12-25 11:33:09,869 - ERROR - User 42: Fatal error - [WinError 10054] An existing connection was forcibly closed by the remote host
+2024-12-25 11:33:09,870 - ERROR - User 32: Fatal error - [WinError 10054] An existing connection was forcibly closed by the remote host
+2024-12-25 11:33:09,872 - INFO - Received from 192.168.1.46 -> EXST
+2024-12-25 11:33:09,872 - INFO - User 8: Account created successfully.
+2024-12-25 11:33:09,872 - INFO - Send to 192.168.1.46:15600 -> LOG:user8:c8fea5b0b76dc690feaf5544749f99b40e78e2a37c0e867a086696509416302a:15008
+2024-12-25 11:33:09,873 - INFO - Received from 192.168.1.46 -> OK
+2024-12-25 11:33:09,873 - INFO - User 22: Account created successfully.
+2024-12-25 11:33:09,873 - INFO - Send to 192.168.1.46:15600 -> LOG:user22:d0f82756c4d40d20e1fdbc90cf4da4adff02fe23b355687525880514642f764e:15022
+2024-12-25 11:33:09,877 - INFO - Received from 192.168.1.46 -> EXST
+2024-12-25 11:33:09,877 - INFO - User 9: Account created successfully.
+2024-12-25 11:33:09,877 - INFO - Send to 192.168.1.46:15600 -> LOG:user9:2d4589473fb3f4581d7452cd25182159d68d2a50056a0cce35a529b010e32f2b:15009
+2024-12-25 11:33:09,877 - INFO - Received from 192.168.1.46 -> WCRE
+2024-12-25 11:33:09,878 - INFO - User 8: Logged in successfully.
+2024-12-25 11:33:09,878 - INFO - Send to 192.168.1.46:15600 -> CCR:room8:user8:62242
+2024-12-25 11:33:09,878 - INFO - Received from 192.168.1.46 -> OK
+2024-12-25 11:33:09,878 - INFO - User 22: Logged in successfully.
+2024-12-25 11:33:09,878 - INFO - Send to 192.168.1.46:15600 -> GOP
+2024-12-25 11:33:09,880 - INFO - Received from 192.168.1.46 -> EXST
+2024-12-25 11:33:09,880 - INFO - User 14: Account created successfully.
+2024-12-25 11:33:09,880 - INFO - Send to 192.168.1.46:15600 -> LOG:user14:b78f24953963ac5ed773d6ec83120e3b1a65510201dc09ed2ed9e9781ba88870:15014
+2024-12-25 11:33:09,882 - INFO - Received from 192.168.1.46 -> N O P : 8 
+ P e e r s : u s e r 1 
+ u s e r 3 
+ u s e r 6 
+ u s e r 7 
+ u s e r 2 
+ u s e r 3 1 
+ u s e r 2 2 
+ u s e r 9 
+
+2024-12-25 11:33:09,883 - INFO - User 22: Operation <lambda> completed successfully.
+2024-12-25 11:33:09,883 - INFO - Send to 192.168.1.46:15600 -> CCR:room22:user22:62244
+2024-12-25 11:33:09,884 - INFO - Received from 192.168.1.46 -> EXST
+2024-12-25 11:33:09,884 - INFO - User 12: Account created successfully.
+2024-12-25 11:33:09,884 - INFO - Send to 192.168.1.46:15600 -> LOG:user12:fdac810d0c09f25c5ddcee9976ab1f1ae1973dba7c65152d95b0937bc2a6c883:15012
+2024-12-25 11:33:09,884 - INFO - Received from 192.168.1.46 -> OK
+2024-12-25 11:33:09,885 - INFO - User 9: Logged in successfully.
+2024-12-25 11:33:09,885 - INFO - Send to 192.168.1.46:15600 -> GCR
+2024-12-25 11:33:09,885 - INFO - Received from 192.168.1.46 -> OK
+2024-12-25 11:33:09,885 - ERROR - User 8: Error during operation <lambda> - 'NoneType' object has no attribute 'isInChatRoom'
+2024-12-25 11:33:09,885 - INFO - Send to 192.168.1.46:15600 -> GOP
+2024-12-25 11:33:09,887 - INFO - Received from 192.168.1.46 -> EXST
+2024-12-25 11:33:09,887 - INFO - User 15: Account created successfully.
+2024-12-25 11:33:09,887 - INFO - Send to 192.168.1.46:15600 -> LOG:user15:b5a4ec869015095060b1171791334513f741177c4011e2c5c36e3e37a5ff8e5f:15015
+2024-12-25 11:33:09,887 - INFO - Received from 192.168.1.46 -> OK
+2024-12-25 11:33:09,888 - INFO - User 14: Logged in successfully.
+2024-12-25 11:33:09,888 - INFO - Send to 192.168.1.46:15600 -> GCR
+2024-12-25 11:33:09,889 - INFO - Received from 192.168.1.46 -> N O C R : 2 8 
+ R o o m s : r o o m u s e r 4 3 
+ r o o m u s e r 8 
+ r o o m u s e r 2 
+ r o o m u s e r 1 0 
+ r o o m u s e r 2 3 
+ r o o m u s e r 1 6 
+ r o o m u s e r 7 
+ r o o m u s e r 1 5 
+ r o o m u s e r 1 2 
+ r o o m u s e r 3 2 
+ r o o m u s e r 4 5 
+ r o o m u s e r 1 1 
+ r o o m u s e r 9 
+ r o o m u s e r 1 3 
+ r o o m u s e r 2 8 
+ r o o m u s e r 1 4 
+ r o o m u s e r 4 0 
+ r o o m 4 
+ r o o m 1 
+ r o o m 3 
+ r o o m 5 
+ r o o m 7 
+ r o o m 6 
+ r o o m 2 4 
+ r o o m 2 
+ r o o m 4 6 
+ r o o m 8 
+ r o o m 2 2 
+
+2024-12-25 11:33:09,890 - INFO - Received from 192.168.1.46 -> N O P : 9 
+ P e e r s : u s e r 1 
+ u s e r 3 
+ u s e r 6 
+ u s e r 7 
+ u s e r 2 
+ u s e r 3 1 
+ u s e r 2 2 
+ u s e r 9 
+ u s e r 1 4 
+
+2024-12-25 11:33:09,890 - INFO - User 9: Operation <lambda> completed successfully.
+2024-12-25 11:33:09,890 - INFO - Send to 192.168.1.46:15600 -> GOP
+2024-12-25 11:33:09,890 - INFO - Received from 192.168.1.46 -> OK
+2024-12-25 11:33:09,890 - INFO - User 8: Operation <lambda> completed successfully.
+2024-12-25 11:33:09,890 - INFO - Send to 192.168.1.46:15600 -> SRCH:user26
+2024-12-25 11:33:09,890 - ERROR - User 22: Error during operation <lambda> - 'NoneType' object has no attribute 'isInChatRoom'
+2024-12-25 11:33:09,891 - INFO - Send to 192.168.1.46:15600 -> GOP
+2024-12-25 11:33:09,891 - INFO - Received from 192.168.1.46 -> EXST
+2024-12-25 11:33:09,892 - INFO - User 19: Account created successfully.
+2024-12-25 11:33:09,892 - INFO - Send to 192.168.1.46:15600 -> LOG:user19:871431053023291d24b403f1f9d761c6f01b3050a0a83cd9d9759a970f8d4d92:15019
+2024-12-25 11:33:09,892 - INFO - Received from 192.168.1.46 -> WCRE
+2024-12-25 11:33:09,892 - INFO - Received from 192.168.1.46 -> N O C R : 2 8 
+ R o o m s : r o o m u s e r 4 3 
+ r o o m u s e r 8 
+ r o o m u s e r 2 
+ r o o m u s e r 1 0 
+ r o o m u s e r 2 3 
+ r o o m u s e r 1 6 
+ r o o m u s e r 7 
+ r o o m u s e r 1 5 
+ r o o m u s e r 1 2 
+ r o o m u s e r 3 2 
+ r o o m u s e r 4 5 
+ r o o m u s e r 1 1 
+ r o o m u s e r 9 
+ r o o m u s e r 1 3 
+ r o o m u s e r 2 8 
+ r o o m u s e r 1 4 
+ r o o m u s e r 4 0 
+ r o o m 4 
+ r o o m 1 
+ r o o m 3 
+ r o o m 5 
+ r o o m 7 
+ r o o m 6 
+ r o o m 2 4 
+ r o o m 2 
+ r o o m 4 6 
+ r o o m 8 
+ r o o m 2 2 
+
+2024-12-25 11:33:09,893 - INFO - User 12: Logged in successfully.
+2024-12-25 11:33:09,893 - INFO - Send to 192.168.1.46:15600 -> CCR:room12:user12:62248
+2024-12-25 11:33:09,893 - INFO - User 14: Operation <lambda> completed successfully.
+2024-12-25 11:33:09,893 - INFO - Send to 192.168.1.46:15600 -> GCR
+2024-12-25 11:33:09,894 - INFO - Received from 192.168.1.46 -> N O P : 1 0 
+ P e e r s : u s e r 1 
+ u s e r 3 
+ u s e r 6 
+ u s e r 7 
+ u s e r 2 
+ u s e r 3 1 
+ u s e r 2 2 
+ u s e r 9 
+ u s e r 1 4 
+ u s e r 1 5 
+
+2024-12-25 11:33:09,894 - INFO - User 9: Operation <lambda> completed successfully.
+2024-12-25 11:33:09,894 - INFO - Send to 192.168.1.46:15600 -> GCR
+2024-12-25 11:33:09,895 - INFO - Received from 192.168.1.46 -> N O P : 1 0 
+ P e e r s : u s e r 1 
+ u s e r 3 
+ u s e r 6 
+ u s e r 7 
+ u s e r 2 
+ u s e r 3 1 
+ u s e r 2 2 
+ u s e r 9 
+ u s e r 1 4 
+ u s e r 1 5 
+
+2024-12-25 11:33:09,896 - INFO - User 22: Operation <lambda> completed successfully.
+2024-12-25 11:33:09,896 - INFO - Send to 192.168.1.46:15600 -> SRCH:user31
+2024-12-25 11:33:09,896 - INFO - Received from 192.168.1.46 -> OK
+2024-12-25 11:33:09,896 - INFO - User 15: Logged in successfully.
+2024-12-25 11:33:09,897 - INFO - Send to 192.168.1.46:15600 -> CCR:room15:user15:62250
+2024-12-25 11:33:09,898 - INFO - Received from 192.168.1.46 -> N O C R : 2 8 
+ R o o m s : r o o m u s e r 4 3 
+ r o o m u s e r 8 
+ r o o m u s e r 2 
+ r o o m u s e r 1 0 
+ r o o m u s e r 2 3 
+ r o o m u s e r 1 6 
+ r o o m u s e r 7 
+ r o o m u s e r 1 5 
+ r o o m u s e r 1 2 
+ r o o m u s e r 3 2 
+ r o o m u s e r 4 5 
+ r o o m u s e r 1 1 
+ r o o m u s e r 9 
+ r o o m u s e r 1 3 
+ r o o m u s e r 2 8 
+ r o o m u s e r 1 4 
+ r o o m u s e r 4 0 
+ r o o m 4 
+ r o o m 1 
+ r o o m 3 
+ r o o m 5 
+ r o o m 7 
+ r o o m 6 
+ r o o m 2 4 
+ r o o m 2 
+ r o o m 4 6 
+ r o o m 8 
+ r o o m 2 2 
+
+2024-12-25 11:33:09,898 - INFO - User 14: Operation <lambda> completed successfully.
+2024-12-25 11:33:09,899 - INFO - Send to 192.168.1.46:15600 -> CCR:room14:user14:62252
+2024-12-25 11:33:09,899 - INFO - Received from 192.168.1.46 -> EXST
+2024-12-25 11:33:09,899 - INFO - User 38: Account created successfully.
+2024-12-25 11:33:09,899 - INFO - Send to 192.168.1.46:15600 -> LOG:user38:b64171fda74426604480b9bf7c10ccdc2ebc80266c8667c42346f54ce87d4dec:15038
+2024-12-25 11:33:09,899 - INFO - Received from 192.168.1.46 -> EXST
+2024-12-25 11:33:09,900 - INFO - User 17: Account created successfully.
+2024-12-25 11:33:09,900 - INFO - Send to 192.168.1.46:15600 -> LOG:user17:4a6b7fa040bcfc734a113fee84d3789c0a626d70d029afad0d1c3e7b6c562e14:15017
+2024-12-25 11:33:09,900 - INFO - Received from 192.168.1.46 -> NON
+2024-12-25 11:33:09,900 - INFO - Received from 192.168.1.46 -> N O C R : 2 9 
+ R o o m s : r o o m u s e r 4 3 
+ r o o m u s e r 8 
+ r o o m u s e r 2 
+ r o o m u s e r 1 0 
+ r o o m u s e r 2 3 
+ r o o m u s e r 1 6 
+ r o o m u s e r 7 
+ r o o m u s e r 1 5 
+ r o o m u s e r 1 2 
+ r o o m u s e r 3 2 
+ r o o m u s e r 4 5 
+ r o o m u s e r 1 1 
+ r o o m u s e r 9 
+ r o o m u s e r 1 3 
+ r o o m u s e r 2 8 
+ r o o m u s e r 1 4 
+ r o o m u s e r 4 0 
+ r o o m 4 
+ r o o m 1 
+ r o o m 3 
+ r o o m 5 
+ r o o m 7 
+ r o o m 6 
+ r o o m 2 4 
+ r o o m 2 
+ r o o m 4 6 
+ r o o m 8 
+ r o o m 2 2 
+ r o o m 1 2 
+
+2024-12-25 11:33:09,900 - INFO - User 8: Operation <lambda> completed successfully.
+2024-12-25 11:33:09,901 - INFO - Send to 192.168.1.46:15600 -> CCR:room8:user8:62254
+2024-12-25 11:33:09,901 - INFO - User 9: Operation <lambda> completed successfully.
+2024-12-25 11:33:09,901 - INFO - Send to 192.168.1.46:15600 -> GOP
+2024-12-25 11:33:09,901 - INFO - Received from 192.168.1.46 -> OK
+2024-12-25 11:33:09,901 - ERROR - User 12: Error during operation <lambda> - 'NoneType' object has no attribute 'isInChatRoom'
+2024-12-25 11:33:09,901 - INFO - Received from 192.168.1.46 -> WCRE
+2024-12-25 11:33:09,901 - INFO - Send to 192.168.1.46:15600 -> GCR
+2024-12-25 11:33:09,902 - INFO - User 19: Logged in successfully.
+2024-12-25 11:33:09,902 - INFO - Send to 192.168.1.46:15600 -> GOP
+2024-12-25 11:33:09,905 - INFO - Received from 192.168.1.46 -> EXST
+2024-12-25 11:33:09,905 - INFO - User 44: Account created successfully.
+2024-12-25 11:33:09,905 - INFO - Send to 192.168.1.46:15600 -> LOG:user44:147eb7dd0f4c59120be8adb20f9dc4d4a0ccb27a0d48d7546dfa171dd980f075:15044
+2024-12-25 11:33:09,906 - INFO - Received from 192.168.1.46 -> N O P : 1 1 
+ P e e r s : u s e r 1 
+ u s e r 3 
+ u s e r 6 
+ u s e r 7 
+ u s e r 2 
+ u s e r 3 1 
+ u s e r 2 2 
+ u s e r 9 
+ u s e r 1 4 
+ u s e r 1 5 
+ u s e r 3 8 
+
+2024-12-25 11:33:09,907 - INFO - User 9: Operation <lambda> completed successfully.
+2024-12-25 11:33:09,907 - INFO - Send to 192.168.1.46:15600 -> SRCH:user45
+2024-12-25 11:33:09,907 - INFO - Received from 192.168.1.46 -> N O C R : 3 1 
+ R o o m s : r o o m u s e r 4 3 
+ r o o m u s e r 8 
+ r o o m u s e r 2 
+ r o o m u s e r 1 0 
+ r o o m u s e r 2 3 
+ r o o m u s e r 1 6 
+ r o o m u s e r 7 
+ r o o m u s e r 1 5 
+ r o o m u s e r 1 2 
+ r o o m u s e r 3 2 
+ r o o m u s e r 4 5 
+ r o o m u s e r 1 1 
+ r o o m u s e r 9 
+ r o o m u s e r 1 3 
+ r o o m u s e r 2 8 
+ r o o m u s e r 1 4 
+ r o o m u s e r 4 0 
+ r o o m 4 
+ r o o m 1 
+ r o o m 3 
+ r o o m 5 
+ r o o m 7 
+ r o o m 6 
+ r o o m 2 4 
+ r o o m 2 
+ r o o m 4 6 
+ r o o m 8 
+ r o o m 2 2 
+ r o o m 1 2 
+ r o o m 1 5 
+ r o o m 1 4 
+
+2024-12-25 11:33:09,907 - INFO - Received from 192.168.1.46 -> N O P : 1 2 
+ P e e r s : u s e r 1 
+ u s e r 3 
+ u s e r 6 
+ u s e r 7 
+ u s e r 2 
+ u s e r 3 1 
+ u s e r 2 2 
+ u s e r 9 
+ u s e r 1 4 
+ u s e r 1 5 
+ u s e r 3 8 
+ u s e r 1 7 
+
+2024-12-25 11:33:09,907 - INFO - Received from 192.168.1.46 -> OK
+2024-12-25 11:33:09,908 - INFO - Received from 192.168.1.46 -> IP: 192.168.1.46:15031
+2024-12-25 11:33:09,908 - INFO - User 19: Operation <lambda> completed successfully.
+2024-12-25 11:33:09,908 - INFO - Send to 192.168.1.46:15600 -> SRCH:user43
+2024-12-25 11:33:09,908 - INFO - Received from 192.168.1.46 -> EXST
+2024-12-25 11:33:09,908 - INFO - Received from 192.168.1.46 -> OK
+2024-12-25 11:33:09,908 - INFO - User 12: Operation <lambda> completed successfully.
+2024-12-25 11:33:09,908 - ERROR - User 15: Error during operation <lambda> - 'NoneType' object has no attribute 'isInChatRoom'
+2024-12-25 11:33:09,909 - INFO - User 22: Operation <lambda> completed successfully.
+2024-12-25 11:33:09,909 - INFO - Received from 192.168.1.46 -> EXST
+2024-12-25 11:33:09,909 - INFO - Send to 192.168.1.46:15600 -> GCR
+2024-12-25 11:33:09,909 - INFO - Send to 192.168.1.46:15600 -> CCR:room22:user22:62258
+2024-12-25 11:33:09,909 - INFO - Send to 192.168.1.46:15600 -> CCR:room12:user12:62257
+2024-12-25 11:33:09,909 - INFO - Received from 192.168.1.46 -> OK
+2024-12-25 11:33:09,910 - ERROR - User 14: Error during operation <lambda> - 'NoneType' object has no attribute 'isInChatRoom'
+2024-12-25 11:33:09,910 - INFO - User 10: Account created successfully.
+2024-12-25 11:33:09,910 - INFO - Send to 192.168.1.46:15600 -> GOP
+2024-12-25 11:33:09,910 - INFO - User 21: Account created successfully.
+2024-12-25 11:33:09,910 - INFO - Send to 192.168.1.46:15600 -> LOG:user10:b35892cb8b089e03e4420b94df688122a2b76d4ad0f8b94ad20808bb029e48a5:15010
+2024-12-25 11:33:09,910 - INFO - Received from 192.168.1.46 -> OK
+2024-12-25 11:33:09,910 - INFO - Send to 192.168.1.46:15600 -> LOG:user21:2d6b3bb57cb9e22fa36516172ef096b30ae00d08eedc1499c599b6269975521d:15021
+2024-12-25 11:33:09,910 - INFO - User 38: Logged in successfully.
+2024-12-25 11:33:09,911 - INFO - User 17: Logged in successfully.
+2024-12-25 11:33:09,911 - INFO - Send to 192.168.1.46:15600 -> SRCH:user11
+2024-12-25 11:33:09,911 - INFO - Send to 192.168.1.46:15600 -> CCR:room38:user38:62260
+2024-12-25 11:33:09,912 - INFO - Received from 192.168.1.46 -> EXST
+2024-12-25 11:33:09,913 - INFO - User 8: Operation <lambda> completed successfully.
+2024-12-25 11:33:09,913 - INFO - Send to 192.168.1.46:15600 -> GCR
+2024-12-25 11:33:09,914 - INFO - Received from 192.168.1.46 -> EXST
+2024-12-25 11:33:09,915 - INFO - User 11: Account created successfully.
+2024-12-25 11:33:09,915 - INFO - Send to 192.168.1.46:15600 -> LOG:user11:8057f787ebd8b4f9d40f53d7fbbfcbdde7067c1a074435b68f525b3de0e2ac2b:15011
+2024-12-25 11:33:09,916 - INFO - Received from 192.168.1.46 -> N O C R : 3 1 
+ R o o m s : r o o m u s e r 4 3 
+ r o o m u s e r 8 
+ r o o m u s e r 2 
+ r o o m u s e r 1 0 
+ r o o m u s e r 2 3 
+ r o o m u s e r 1 6 
+ r o o m u s e r 7 
+ r o o m u s e r 1 5 
+ r o o m u s e r 1 2 
+ r o o m u s e r 3 2 
+ r o o m u s e r 4 5 
+ r o o m u s e r 1 1 
+ r o o m u s e r 9 
+ r o o m u s e r 1 3 
+ r o o m u s e r 2 8 
+ r o o m u s e r 1 4 
+ r o o m u s e r 4 0 
+ r o o m 4 
+ r o o m 1 
+ r o o m 3 
+ r o o m 5 
+ r o o m 7 
+ r o o m 6 
+ r o o m 2 4 
+ r o o m 2 
+ r o o m 4 6 
+ r o o m 8 
+ r o o m 2 2 
+ r o o m 1 2 
+ r o o m 1 5 
+ r o o m 1 4 
+
+2024-12-25 11:33:09,916 - INFO - Received from 192.168.1.46 -> N O P : 1 2 
+ P e e r s : u s e r 1 
+ u s e r 3 
+ u s e r 6 
+ u s e r 7 
+ u s e r 2 
+ u s e r 3 1 
+ u s e r 2 2 
+ u s e r 9 
+ u s e r 1 4 
+ u s e r 1 5 
+ u s e r 3 8 
+ u s e r 1 7 
+
+2024-12-25 11:33:09,917 - INFO - User 15: Operation <lambda> completed successfully.
+2024-12-25 11:33:09,917 - INFO - Send to 192.168.1.46:15600 -> SRCH:user35
+2024-12-25 11:33:09,917 - INFO - User 14: Operation <lambda> completed successfully.
+2024-12-25 11:33:09,917 - INFO - Send to 192.168.1.46:15600 -> GCR
+2024-12-25 11:33:09,918 - INFO - Received from 192.168.1.46 -> WCRE
+2024-12-25 11:33:09,919 - INFO - User 44: Logged in successfully.
+2024-12-25 11:33:09,919 - INFO - Send to 192.168.1.46:15600 -> GCR
+2024-12-25 11:33:09,920 - INFO - Received from 192.168.1.46 -> NON
+2024-12-25 11:33:09,920 - INFO - User 9: Operation <lambda> completed successfully.
+2024-12-25 11:33:09,920 - ERROR - User 9: Fatal error - can only concatenate str (not "NoneType") to str
+2024-12-25 11:33:09,921 - INFO - Received from 192.168.1.46 -> N O C R : 3 2 
+ R o o m s : r o o m u s e r 4 3 
+ r o o m u s e r 8 
+ r o o m u s e r 2 
+ r o o m u s e r 1 0 
+ r o o m u s e r 2 3 
+ r o o m u s e r 1 6 
+ r o o m u s e r 7 
+ r o o m u s e r 1 5 
+ r o o m u s e r 1 2 
+ r o o m u s e r 3 2 
+ r o o m u s e r 4 5 
+ r o o m u s e r 1 1 
+ r o o m u s e r 9 
+ r o o m u s e r 1 3 
+ r o o m u s e r 2 8 
+ r o o m u s e r 1 4 
+ r o o m u s e r 4 0 
+ r o o m 4 
+ r o o m 1 
+ r o o m 3 
+ r o o m 5 
+ r o o m 7 
+ r o o m 6 
+ r o o m 2 4 
+ r o o m 2 
+ r o o m 4 6 
+ r o o m 8 
+ r o o m 2 2 
+ r o o m 1 2 
+ r o o m 1 5 
+ r o o m 1 4 
+ r o o m 3 8 
+
+2024-12-25 11:33:09,921 - INFO - Received from 192.168.1.46 -> NOTEXST
+2024-12-25 11:33:09,921 - INFO - Received from 192.168.1.46 -> EXST
+2024-12-25 11:33:09,921 - INFO - User 8: Operation <lambda> completed successfully.
+2024-12-25 11:33:09,921 - ERROR - User 8: Fatal error - can only concatenate str (not "NoneType") to str
+2024-12-25 11:33:09,922 - INFO - User 19: Operation <lambda> completed successfully.
+2024-12-25 11:33:09,922 - INFO - User 23: Account created successfully.
+2024-12-25 11:33:09,922 - INFO - Received from 192.168.1.46 -> EXST
+2024-12-25 11:33:09,922 - INFO - Send to 192.168.1.46:15600 -> LOG:user23:8893186d24cce07e1c82f2e020d41177e699318b4be9535483fdf55edf58cd50:15023
+2024-12-25 11:33:09,922 - INFO - Send to 192.168.1.46:15600 -> CCR:room19:user19:62264
+2024-12-25 11:33:09,922 - INFO - User 18: Account created successfully.
+2024-12-25 11:33:09,922 - INFO - Send to 192.168.1.46:15600 -> LOG:user18:b99ddd77e59c96b13b64b3abe1902db4c0a76dabf8622aa6c71f8f5670be6625:15018
+2024-12-25 11:33:09,922 - INFO - Received from 192.168.1.46 -> EXST
+2024-12-25 11:33:09,923 - INFO - Received from 192.168.1.46 -> OK
+2024-12-25 11:33:09,923 - INFO - User 12: Operation <lambda> completed successfully.
+2024-12-25 11:33:09,923 - INFO - Send to 192.168.1.46:15600 -> SRCH:user45
+2024-12-25 11:33:09,923 - ERROR - User 38: Error during operation <lambda> - 'NoneType' object has no attribute 'isInChatRoom'
+2024-12-25 11:33:09,924 - INFO - Send to 192.168.1.46:15600 -> CCR:room38:user38:62265
+2024-12-25 11:33:09,924 - INFO - Received from 192.168.1.46 -> WCRE
+2024-12-25 11:33:09,924 - INFO - Received from 192.168.1.46 -> EXST
+2024-12-25 11:33:09,924 - INFO - User 22: Operation <lambda> completed successfully.
+2024-12-25 11:33:09,924 - INFO - Received from 192.168.1.46 -> N O C R : 3 2 
+ R o o m s : r o o m u s e r 4 3 
+ r o o m u s e r 8 
+ r o o m u s e r 2 
+ r o o m u s e r 1 0 
+ r o o m u s e r 2 3 
+ r o o m u s e r 1 6 
+ r o o m u s e r 7 
+ r o o m u s e r 1 5 
+ r o o m u s e r 1 2 
+ r o o m u s e r 3 2 
+ r o o m u s e r 4 5 
+ r o o m u s e r 1 1 
+ r o o m u s e r 9 
+ r o o m u s e r 1 3 
+ r o o m u s e r 2 8 
+ r o o m u s e r 1 4 
+ r o o m u s e r 4 0 
+ r o o m 4 
+ r o o m 1 
+ r o o m 3 
+ r o o m 5 
+ r o o m 7 
+ r o o m 6 
+ r o o m 2 4 
+ r o o m 2 
+ r o o m 4 6 
+ r o o m 8 
+ r o o m 2 2 
+ r o o m 1 2 
+ r o o m 1 5 
+ r o o m 1 4 
+ r o o m 3 8 
+
+2024-12-25 11:33:09,924 - INFO - User 10: Logged in successfully.
+2024-12-25 11:33:09,924 - ERROR - User 22: Fatal error - can only concatenate str (not "NoneType") to str
+2024-12-25 11:33:09,925 - INFO - Send to 192.168.1.46:15600 -> SRCH:user42
+2024-12-25 11:33:09,925 - INFO - Received from 192.168.1.46 -> NON
+2024-12-25 11:33:09,925 - INFO - Received from 192.168.1.46 -> OK
+2024-12-25 11:33:09,925 - INFO - User 14: Operation <lambda> completed successfully.
+2024-12-25 11:33:09,925 - INFO - Received from 192.168.1.46 -> N O C R : 3 2 
+ R o o m s : r o o m u s e r 4 3 
+ r o o m u s e r 8 
+ r o o m u s e r 2 
+ r o o m u s e r 1 0 
+ r o o m u s e r 2 3 
+ r o o m u s e r 1 6 
+ r o o m u s e r 7 
+ r o o m u s e r 1 5 
+ r o o m u s e r 1 2 
+ r o o m u s e r 3 2 
+ r o o m u s e r 4 5 
+ r o o m u s e r 1 1 
+ r o o m u s e r 9 
+ r o o m u s e r 1 3 
+ r o o m u s e r 2 8 
+ r o o m u s e r 1 4 
+ r o o m u s e r 4 0 
+ r o o m 4 
+ r o o m 1 
+ r o o m 3 
+ r o o m 5 
+ r o o m 7 
+ r o o m 6 
+ r o o m 2 4 
+ r o o m 2 
+ r o o m 4 6 
+ r o o m 8 
+ r o o m 2 2 
+ r o o m 1 2 
+ r o o m 1 5 
+ r o o m 1 4 
+ r o o m 3 8 
+
+2024-12-25 11:33:09,925 - ERROR - User 14: Fatal error - can only concatenate str (not "NoneType") to str
+2024-12-25 11:33:09,926 - INFO - User 17: Operation <lambda> completed successfully.
+2024-12-25 11:33:09,926 - INFO - User 44: Operation <lambda> completed successfully.
+2024-12-25 11:33:09,926 - INFO - Send to 192.168.1.46:15600 -> SRCH:user32
+2024-12-25 11:33:09,926 - INFO - User 21: Logged in successfully.
+2024-12-25 11:33:09,926 - INFO - Send to 192.168.1.46:15600 -> GCR
+2024-12-25 11:33:09,927 - INFO - Send to 192.168.1.46:15600 -> CCR:room44:user44:62267
+2024-12-25 11:33:09,928 - INFO - Received from 192.168.1.46 -> EXST
+2024-12-25 11:33:09,928 - INFO - User 30: Account created successfully.
+2024-12-25 11:33:09,928 - INFO - Send to 192.168.1.46:15600 -> LOG:user30:85fcbe6bf830f23209ea6a932921e8da31a653a24a20cb84e75c4997e505690b:15030
+2024-12-25 11:33:09,929 - INFO - Received from 192.168.1.46 -> WCRE
+2024-12-25 11:33:09,929 - INFO - User 11: Logged in successfully.
+2024-12-25 11:33:09,930 - INFO - Send to 192.168.1.46:15600 -> CCR:room11:user11:62269
+2024-12-25 11:33:09,931 - INFO - Received from 192.168.1.46 -> NON
+2024-12-25 11:33:09,932 - INFO - User 15: Operation <lambda> completed successfully.
+2024-12-25 11:33:09,932 - INFO - Send to 192.168.1.46:15600 -> SRCH:user28
+2024-12-25 11:33:09,935 - INFO - Received from 192.168.1.46 -> N O C R : 3 3 
+ R o o m s : r o o m u s e r 4 3 
+ r o o m u s e r 8 
+ r o o m u s e r 2 
+ r o o m u s e r 1 0 
+ r o o m u s e r 2 3 
+ r o o m u s e r 1 6 
+ r o o m u s e r 7 
+ r o o m u s e r 1 5 
+ r o o m u s e r 1 2 
+ r o o m u s e r 3 2 
+ r o o m u s e r 4 5 
+ r o o m u s e r 1 1 
+ r o o m u s e r 9 
+ r o o m u s e r 1 3 
+ r o o m u s e r 2 8 
+ r o o m u s e r 1 4 
+ r o o m u s e r 4 0 
+ r o o m 4 
+ r o o m 1 
+ r o o m 3 
+ r o o m 5 
+ r o o m 7 
+ r o o m 6 
+ r o o m 2 4 
+ r o o m 2 
+ r o o m 4 6 
+ r o o m 8 
+ r o o m 2 2 
+ r o o m 1 2 
+ r o o m 1 5 
+ r o o m 1 4 
+ r o o m 3 8 
+ r o o m 1 9 
+
+2024-12-25 11:33:09,935 - INFO - User 21: Operation <lambda> completed successfully.
+2024-12-25 11:33:09,935 - INFO - Send to 192.168.1.46:15600 -> GOP
+2024-12-25 11:33:09,935 - INFO - Received from 192.168.1.46 -> EXST
+2024-12-25 11:33:09,936 - INFO - User 26: Account created successfully.
+2024-12-25 11:33:09,936 - INFO - Send to 192.168.1.46:15600 -> LOG:user26:45e17065ddc6fb3a682f7732df5804652952dbe1f5ca5377a661515a8fcf66be:15026
+2024-12-25 11:33:09,936 - INFO - Received from 192.168.1.46 -> OK
+2024-12-25 11:33:09,936 - INFO - Received from 192.168.1.46 -> EXST
+2024-12-25 11:33:09,937 - INFO - User 23: Logged in successfully.
+2024-12-25 11:33:09,937 - INFO - Send to 192.168.1.46:15600 -> SRCH:user18
+2024-12-25 11:33:09,937 - INFO - User 47: Account created successfully.
+2024-12-25 11:33:09,937 - INFO - Send to 192.168.1.46:15600 -> LOG:user47:dbb70b94b6b192a1085e8056872daa4eb24002d47c82e88b1323f1a5882567ba:15047
+2024-12-25 11:33:09,937 - INFO - Received from 192.168.1.46 -> WCRE
+2024-12-25 11:33:09,937 - INFO - User 18: Logged in successfully.
+2024-12-25 11:33:09,937 - INFO - Send to 192.168.1.46:15600 -> GOP
+2024-12-25 11:33:09,937 - INFO - Received from 192.168.1.46 -> OK
+2024-12-25 11:33:09,937 - INFO - Received from 192.168.1.46 -> NON
+2024-12-25 11:33:09,938 - ERROR - User 19: Error during operation <lambda> - 'NoneType' object has no attribute 'isInChatRoom'
+2024-12-25 11:33:09,938 - INFO - User 12: Operation <lambda> completed successfully.
+2024-12-25 11:33:09,938 - INFO - Send to 192.168.1.46:15600 -> SRCH:user32
+2024-12-25 11:33:09,938 - INFO - Send to 192.168.1.46:15600 -> GOP
+2024-12-25 11:33:09,939 - INFO - Received from 192.168.1.46 -> EXST
+2024-12-25 11:33:09,939 - INFO - User 38: Operation <lambda> completed successfully.
+2024-12-25 11:33:09,939 - INFO - Received from 192.168.1.46 -> NON
+2024-12-25 11:33:09,939 - INFO - Send to 192.168.1.46:15600 -> CCR:room38:user38:62272
+2024-12-25 11:33:09,940 - INFO - User 10: Operation <lambda> completed successfully.
+2024-12-25 11:33:09,940 - INFO - Send to 192.168.1.46:15600 -> CCR:room10:user10:62273
+2024-12-25 11:33:09,940 - INFO - Received from 192.168.1.46 -> EXST
+2024-12-25 11:33:09,940 - INFO - Received from 192.168.1.46 -> NON
+2024-12-25 11:33:09,940 - INFO - Received from 192.168.1.46 -> OK
+2024-12-25 11:33:09,940 - INFO - User 48: Account created successfully.
+2024-12-25 11:33:09,941 - INFO - Send to 192.168.1.46:15600 -> LOG:user48:ffe4daf45af0e803fbe1fba2de5c7f7644f30b71ddb082100779d7884e0291c2:15048
+2024-12-25 11:33:09,941 - INFO - User 17: Operation <lambda> completed successfully.
+2024-12-25 11:33:09,941 - INFO - Send to 192.168.1.46:15600 -> GOP
+2024-12-25 11:33:09,941 - INFO - Received from 192.168.1.46 -> OK
+2024-12-25 11:33:09,941 - INFO - User 29: Account created successfully.
+2024-12-25 11:33:09,941 - INFO - Send to 192.168.1.46:15600 -> LOG:user29:53f6f072e26d36b9e55d5dc828872856d5286f18ce3818d367f9e4473e464a66:15029
+2024-12-25 11:33:09,941 - INFO - Received from 192.168.1.46 -> N O P : 1 4 
+ P e e r s : u s e r 1 
+ u s e r 3 
+ u s e r 6 
+ u s e r 7 
+ u s e r 2 
+ u s e r 3 1 
+ u s e r 2 2 
+ u s e r 9 
+ u s e r 1 4 
+ u s e r 1 5 
+ u s e r 3 8 
+ u s e r 1 7 
+ u s e r 2 1 
+ u s e r 2 3 
+
+2024-12-25 11:33:09,942 - INFO - User 21: Operation <lambda> completed successfully.
+2024-12-25 11:33:09,942 - ERROR - User 44: Error during operation <lambda> - 'NoneType' object has no attribute 'isInChatRoom'
+2024-12-25 11:33:09,942 - INFO - Send to 192.168.1.46:15600 -> GCR
+2024-12-25 11:33:09,942 - INFO - Send to 192.168.1.46:15600 -> CCR:room21:user21:62275
+2024-12-25 11:33:09,943 - INFO - Received from 192.168.1.46 -> OK
+2024-12-25 11:33:09,943 - ERROR - User 11: Error during operation <lambda> - 'NoneType' object has no attribute 'isInChatRoom'
+2024-12-25 11:33:09,943 - INFO - Received from 192.168.1.46 -> WCRE
+2024-12-25 11:33:09,944 - INFO - User 30: Logged in successfully.
+2024-12-25 11:33:09,944 - INFO - Received from 192.168.1.46 -> N O P : 1 4 
+ P e e r s : u s e r 1 
+ u s e r 3 
+ u s e r 6 
+ u s e r 7 
+ u s e r 2 
+ u s e r 3 1 
+ u s e r 2 2 
+ u s e r 9 
+ u s e r 1 4 
+ u s e r 1 5 
+ u s e r 3 8 
+ u s e r 1 7 
+ u s e r 2 1 
+ u s e r 2 3 
+
+2024-12-25 11:33:09,944 - INFO - Send to 192.168.1.46:15600 -> CCR:room11:user11:62276
+2024-12-25 11:33:09,944 - INFO - Send to 192.168.1.46:15600 -> CCR:room30:user30:62277
+2024-12-25 11:33:09,944 - INFO - User 18: Operation <lambda> completed successfully.
+2024-12-25 11:33:09,944 - INFO - Send to 192.168.1.46:15600 -> GOP
+2024-12-25 11:33:09,946 - INFO - Received from 192.168.1.46 -> N O P : 1 5 
+ P e e r s : u s e r 1 
+ u s e r 3 
+ u s e r 6 
+ u s e r 7 
+ u s e r 2 
+ u s e r 3 1 
+ u s e r 2 2 
+ u s e r 9 
+ u s e r 1 4 
+ u s e r 1 5 
+ u s e r 3 8 
+ u s e r 1 7 
+ u s e r 2 1 
+ u s e r 2 3 
+ u s e r 4 7 
+
+2024-12-25 11:33:09,946 - INFO - Received from 192.168.1.46 -> NON
+2024-12-25 11:33:09,946 - INFO - User 12: Operation <lambda> completed successfully.
+2024-12-25 11:33:09,946 - ERROR - User 12: Fatal error - can only concatenate str (not "NoneType") to str
+2024-12-25 11:33:09,946 - INFO - User 15: Operation <lambda> completed successfully.
+2024-12-25 11:33:09,946 - INFO - Send to 192.168.1.46:15600 -> GCR
+2024-12-25 11:33:09,948 - INFO - Received from 192.168.1.46 -> EXST
+2024-12-25 11:33:09,948 - INFO - User 13: Account created successfully.
+2024-12-25 11:33:09,949 - INFO - Send to 192.168.1.46:15600 -> LOG:user13:1e53de2a2b4ab888cc24002ef8832d433b21956ab83ddeef989c8224b5c8f9f2:15013
+2024-12-25 11:33:09,950 - INFO - Received from 192.168.1.46 -> N O P : 1 5 
+ P e e r s : u s e r 1 
+ u s e r 3 
+ u s e r 6 
+ u s e r 7 
+ u s e r 2 
+ u s e r 3 1 
+ u s e r 2 2 
+ u s e r 9 
+ u s e r 1 4 
+ u s e r 1 5 
+ u s e r 3 8 
+ u s e r 1 7 
+ u s e r 2 1 
+ u s e r 2 3 
+ u s e r 4 7 
+
+2024-12-25 11:33:09,950 - INFO - User 17: Operation <lambda> completed successfully.
+2024-12-25 11:33:09,950 - INFO - Send to 192.168.1.46:15600 -> CCR:room17:user17:62280
+2024-12-25 11:33:09,951 - INFO - Received from 192.168.1.46 -> N O C R : 3 6 
+ R o o m s : r o o m u s e r 4 3 
+ r o o m u s e r 8 
+ r o o m u s e r 2 
+ r o o m u s e r 1 0 
+ r o o m u s e r 2 3 
+ r o o m u s e r 1 6 
+ r o o m u s e r 7 
+ r o o m u s e r 1 5 
+ r o o m u s e r 1 2 
+ r o o m u s e r 3 2 
+ r o o m u s e r 4 5 
+ r o o m u s e r 1 1 
+ r o o m u s e r 9 
+ r o o m u s e r 1 3 
+ r o o m u s e r 2 8 
+ r o o m u s e r 1 4 
+ r o o m u s e r 4 0 
+ r o o m 4 
+ r o o m 1 
+ r o o m 3 
+ r o o m 5 
+ r o o m 7 
+ r o o m 6 
+ r o o m 2 4 
+ r o o m 2 
+ r o o m 4 6 
+ r o o m 8 
+ r o o m 2 2 
+ r o o m 1 2 
+ r o o m 1 5 
+ r o o m 1 4 
+ r o o m 3 8 
+ r o o m 1 9 
+ r o o m 4 4 
+ r o o m 1 1 
+ r o o m 1 0 
+
+2024-12-25 11:33:09,951 - INFO - User 44: Operation <lambda> completed successfully.
+2024-12-25 11:33:09,951 - INFO - Send to 192.168.1.46:15600 -> GCR
+2024-12-25 11:33:09,952 - INFO - Received from 192.168.1.46 -> WCRE
+2024-12-25 11:33:09,952 - INFO - Received from 192.168.1.46 -> OK
+2024-12-25 11:33:09,952 - INFO - User 47: Logged in successfully.
+2024-12-25 11:33:09,952 - INFO - Send to 192.168.1.46:15600 -> SRCH:user25
+2024-12-25 11:33:09,953 - INFO - User 26: Logged in successfully.
+2024-12-25 11:33:09,953 - INFO - Send to 192.168.1.46:15600 -> GCR
+2024-12-25 11:33:09,953 - INFO - Received from 192.168.1.46 -> EXST
+2024-12-25 11:33:09,954 - INFO - User 27: Account created successfully.
+2024-12-25 11:33:09,954 - INFO - Send to 192.168.1.46:15600 -> LOG:user27:43b3ec9ea3961a319d37b4cc775d3f43f68709b62a93db10dd6c598137f28732:15027
+2024-12-25 11:33:09,954 - INFO - Received from 192.168.1.46 -> NON
+2024-12-25 11:33:09,954 - INFO - Received from 192.168.1.46 -> N O P : 1 6 
+ P e e r s : u s e r 1 
+ u s e r 3 
+ u s e r 6 
+ u s e r 7 
+ u s e r 2 
+ u s e r 3 1 
+ u s e r 2 2 
+ u s e r 9 
+ u s e r 1 4 
+ u s e r 1 5 
+ u s e r 3 8 
+ u s e r 1 7 
+ u s e r 2 1 
+ u s e r 2 3 
+ u s e r 4 7 
+ u s e r 2 9 
+
+2024-12-25 11:33:09,954 - INFO - User 23: Operation <lambda> completed successfully.
+2024-12-25 11:33:09,954 - INFO - Send to 192.168.1.46:15600 -> GCR
+2024-12-25 11:33:09,954 - INFO - Received from 192.168.1.46 -> NON
+2024-12-25 11:33:09,955 - INFO - User 18: Operation <lambda> completed successfully.
+2024-12-25 11:33:09,955 - INFO - User 19: Operation <lambda> completed successfully.
+2024-12-25 11:33:09,955 - INFO - Send to 192.168.1.46:15600 -> CCR:room18:user18:62281
+2024-12-25 11:33:09,955 - INFO - Send to 192.168.1.46:15600 -> CCR:room19:user19:62282
+2024-12-25 11:33:09,956 - INFO - Received from 192.168.1.46 -> N O C R : 3 8 
+ R o o m s : r o o m u s e r 4 3 
+ r o o m u s e r 8 
+ r o o m u s e r 2 
+ r o o m u s e r 1 0 
+ r o o m u s e r 2 3 
+ r o o m u s e r 1 6 
+ r o o m u s e r 7 
+ r o o m u s e r 1 5 
+ r o o m u s e r 1 2 
+ r o o m u s e r 3 2 
+ r o o m u s e r 4 5 
+ r o o m u s e r 1 1 
+ r o o m u s e r 9 
+ r o o m u s e r 1 3 
+ r o o m u s e r 2 8 
+ r o o m u s e r 1 4 
+ r o o m u s e r 4 0 
+ r o o m 4 
+ r o o m 1 
+ r o o m 3 
+ r o o m 5 
+ r o o m 7 
+ r o o m 6 
+ r o o m 2 4 
+ r o o m 2 
+ r o o m 4 6 
+ r o o m 8 
+ r o o m 2 2 
+ r o o m 1 2 
+ r o o m 1 5 
+ r o o m 1 4 
+ r o o m 3 8 
+ r o o m 1 9 
+ r o o m 4 4 
+ r o o m 1 1 
+ r o o m 1 0 
+ r o o m 2 1 
+ r o o m 3 0 
+
+2024-12-25 11:33:09,956 - INFO - Received from 192.168.1.46 -> OK
+2024-12-25 11:33:09,956 - INFO - Received from 192.168.1.46 -> EXST
+2024-12-25 11:33:09,956 - INFO - User 15: Operation <lambda> completed successfully.
+2024-12-25 11:33:09,956 - INFO - Received from 192.168.1.46 -> OK
+2024-12-25 11:33:09,956 - ERROR - User 15: Fatal error - can only concatenate str (not "NoneType") to str
+2024-12-25 11:33:09,956 - INFO - Received from 192.168.1.46 -> WCRE
+2024-12-25 11:33:09,957 - ERROR - User 10: Error during operation <lambda> - 'NoneType' object has no attribute 'isInChatRoom'
+2024-12-25 11:33:09,957 - INFO - User 33: Account created successfully.
+2024-12-25 11:33:09,957 - INFO - Send to 192.168.1.46:15600 -> LOG:user33:0756810289814362efbea8bb826fea0a7bc4318a7f22a4b27b48290cd39951a3:15033
+2024-12-25 11:33:09,957 - INFO - Send to 192.168.1.46:15600 -> SRCH:user34
+2024-12-25 11:33:09,957 - INFO - User 48: Logged in successfully.
+2024-12-25 11:33:09,957 - INFO - Send to 192.168.1.46:15600 -> GOP
+2024-12-25 11:33:09,958 - INFO - User 38: Operation <lambda> completed successfully.
+2024-12-25 11:33:09,958 - INFO - Send to 192.168.1.46:15600 -> GCR
+2024-12-25 11:33:09,958 - INFO - Received from 192.168.1.46 -> OK
+2024-12-25 11:33:09,958 - INFO - Received from 192.168.1.46 -> N O C R : 3 8 
+ R o o m s : r o o m u s e r 4 3 
+ r o o m u s e r 8 
+ r o o m u s e r 2 
+ r o o m u s e r 1 0 
+ r o o m u s e r 2 3 
+ r o o m u s e r 1 6 
+ r o o m u s e r 7 
+ r o o m u s e r 1 5 
+ r o o m u s e r 1 2 
+ r o o m u s e r 3 2 
+ r o o m u s e r 4 5 
+ r o o m u s e r 1 1 
+ r o o m u s e r 9 
+ r o o m u s e r 1 3 
+ r o o m u s e r 2 8 
+ r o o m u s e r 1 4 
+ r o o m u s e r 4 0 
+ r o o m 4 
+ r o o m 1 
+ r o o m 3 
+ r o o m 5 
+ r o o m 7 
+ r o o m 6 
+ r o o m 2 4 
+ r o o m 2 
+ r o o m 4 6 
+ r o o m 8 
+ r o o m 2 2 
+ r o o m 1 2 
+ r o o m 1 5 
+ r o o m 1 4 
+ r o o m 3 8 
+ r o o m 1 9 
+ r o o m 4 4 
+ r o o m 1 1 
+ r o o m 1 0 
+ r o o m 2 1 
+ r o o m 3 0 
+
+2024-12-25 11:33:09,958 - INFO - User 29: Logged in successfully.
+2024-12-25 11:33:09,958 - INFO - Send to 192.168.1.46:15600 -> GOP
+2024-12-25 11:33:09,959 - INFO - Received from 192.168.1.46 -> OK
+2024-12-25 11:33:09,959 - INFO - User 44: Operation <lambda> completed successfully.
+2024-12-25 11:33:09,959 - INFO - Received from 192.168.1.46 -> EXST
+2024-12-25 11:33:09,959 - INFO - Send to 192.168.1.46:15600 -> GCR
+2024-12-25 11:33:09,959 - ERROR - User 21: Error during operation <lambda> - 'NoneType' object has no attribute 'isInChatRoom'
+2024-12-25 11:33:09,959 - INFO - User 37: Account created successfully.
+2024-12-25 11:33:09,959 - INFO - Send to 192.168.1.46:15600 -> LOG:user37:1a31ac086ebf1341c916929e6d982767cd8568887d7c930ba8abd062afa08eac:15037
+2024-12-25 11:33:09,959 - INFO - Received from 192.168.1.46 -> EXST
+2024-12-25 11:33:09,960 - INFO - Send to 192.168.1.46:15600 -> CCR:room21:user21:62283
+2024-12-25 11:33:09,960 - INFO - Received from 192.168.1.46 -> N O C R : 3 9 
+ R o o m s : r o o m u s e r 4 3 
+ r o o m u s e r 8 
+ r o o m u s e r 2 
+ r o o m u s e r 1 0 
+ r o o m u s e r 2 3 
+ r o o m u s e r 1 6 
+ r o o m u s e r 7 
+ r o o m u s e r 1 5 
+ r o o m u s e r 1 2 
+ r o o m u s e r 3 2 
+ r o o m u s e r 4 5 
+ r o o m u s e r 1 1 
+ r o o m u s e r 9 
+ r o o m u s e r 1 3 
+ r o o m u s e r 2 8 
+ r o o m u s e r 1 4 
+ r o o m u s e r 4 0 
+ r o o m 4 
+ r o o m 1 
+ r o o m 3 
+ r o o m 5 
+ r o o m 7 
+ r o o m 6 
+ r o o m 2 4 
+ r o o m 2 
+ r o o m 4 6 
+ r o o m 8 
+ r o o m 2 2 
+ r o o m 1 2 
+ r o o m 1 5 
+ r o o m 1 4 
+ r o o m 3 8 
+ r o o m 1 9 
+ r o o m 4 4 
+ r o o m 1 1 
+ r o o m 1 0 
+ r o o m 2 1 
+ r o o m 3 0 
+ r o o m 1 7 
+
+2024-12-25 11:33:09,960 - INFO - Received from 192.168.1.46 -> OK
+2024-12-25 11:33:09,960 - INFO - User 11: Operation <lambda> completed successfully.
+2024-12-25 11:33:09,960 - INFO - Send to 192.168.1.46:15600 -> SRCH:user32
+2024-12-25 11:33:09,960 - INFO - User 26: Operation <lambda> completed successfully.
+2024-12-25 11:33:09,960 - INFO - Send to 192.168.1.46:15600 -> GOP
+2024-12-25 11:33:09,961 - ERROR - User 30: Error during operation <lambda> - 'NoneType' object has no attribute 'isInChatRoom'
+2024-12-25 11:33:09,961 - INFO - Send to 192.168.1.46:15600 -> GCR
+2024-12-25 11:33:09,961 - INFO - Received from 192.168.1.46 -> N O C R : 3 9 
+ R o o m s : r o o m u s e r 4 3 
+ r o o m u s e r 8 
+ r o o m u s e r 2 
+ r o o m u s e r 1 0 
+ r o o m u s e r 2 3 
+ r o o m u s e r 1 6 
+ r o o m u s e r 7 
+ r o o m u s e r 1 5 
+ r o o m u s e r 1 2 
+ r o o m u s e r 3 2 
+ r o o m u s e r 4 5 
+ r o o m u s e r 1 1 
+ r o o m u s e r 9 
+ r o o m u s e r 1 3 
+ r o o m u s e r 2 8 
+ r o o m u s e r 1 4 
+ r o o m u s e r 4 0 
+ r o o m 4 
+ r o o m 1 
+ r o o m 3 
+ r o o m 5 
+ r o o m 7 
+ r o o m 6 
+ r o o m 2 4 
+ r o o m 2 
+ r o o m 4 6 
+ r o o m 8 
+ r o o m 2 2 
+ r o o m 1 2 
+ r o o m 1 5 
+ r o o m 1 4 
+ r o o m 3 8 
+ r o o m 1 9 
+ r o o m 4 4 
+ r o o m 1 1 
+ r o o m 1 0 
+ r o o m 2 1 
+ r o o m 3 0 
+ r o o m 1 7 
+
+2024-12-25 11:33:09,962 - INFO - User 23: Operation <lambda> completed successfully.
+2024-12-25 11:33:09,962 - INFO - Send to 192.168.1.46:15600 -> GCR
+2024-12-25 11:33:09,963 - INFO - Received from 192.168.1.46 -> EXST
+2024-12-25 11:33:09,963 - INFO - User 20: Account created successfully.
+2024-12-25 11:33:09,963 - INFO - Send to 192.168.1.46:15600 -> LOG:user20:51d11024031a8951b4722671adfc8587538f5e5417206e7862e60752758a5c35:15020
+2024-12-25 11:33:09,964 - INFO - Received from 192.168.1.46 -> WCRE
+2024-12-25 11:33:09,964 - INFO - User 13: Logged in successfully.
+2024-12-25 11:33:09,964 - INFO - Send to 192.168.1.46:15600 -> GOP
+2024-12-25 11:33:09,964 - INFO - Received from 192.168.1.46 -> OK
+2024-12-25 11:33:09,964 - INFO - Received from 192.168.1.46 -> N O P : 1 6 
+ P e e r s : u s e r 1 
+ u s e r 3 
+ u s e r 6 
+ u s e r 7 
+ u s e r 2 
+ u s e r 3 1 
+ u s e r 2 2 
+ u s e r 9 
+ u s e r 1 4 
+ u s e r 1 5 
+ u s e r 3 8 
+ u s e r 1 7 
+ u s e r 2 1 
+ u s e r 2 3 
+ u s e r 4 7 
+ u s e r 2 9 
+
+2024-12-25 11:33:09,965 - ERROR - User 17: Error during operation <lambda> - 'NoneType' object has no attribute 'isInChatRoom'
+2024-12-25 11:33:09,965 - INFO - Send to 192.168.1.46:15600 -> SRCH:user30
+2024-12-25 11:33:09,965 - INFO - Received from 192.168.1.46 -> N O C R : 4 0 
+ R o o m s : r o o m u s e r 4 3 
+ r o o m u s e r 8 
+ r o o m u s e r 2 
+ r o o m u s e r 1 0 
+ r o o m u s e r 2 3 
+ r o o m u s e r 1 6 
+ r o o m u s e r 7 
+ r o o m u s e r 1 5 
+ r o o m u s e r 1 2 
+ r o o m u s e r 3 2 
+ r o o m u s e r 4 5 
+ r o o m u s e r 1 1 
+ r o o m u s e r 9 
+ r o o m u s e r 1 3 
+ r o o m u s e r 2 8 
+ r o o m u s e r 1 4 
+ r o o m u s e r 4 0 
+ r o o m 4 
+ r o o m 1 
+ r o o m 3 
+ r o o m 5 
+ r o o m 7 
+ r o o m 6 
+ r o o m 2 4 
+ r o o m 2 
+ r o o m 4 6 
+ r o o m 8 
+ r o o m 2 2 
+ r o o m 1 2 
+ r o o m 1 5 
+ r o o m 1 4 
+ r o o m 3 8 
+ r o o m 1 9 
+ r o o m 4 4 
+ r o o m 1 1 
+ r o o m 1 0 
+ r o o m 2 1 
+ r o o m 3 0 
+ r o o m 1 7 
+ r o o m 1 8 
+
+2024-12-25 11:33:09,965 - INFO - User 48: Operation <lambda> completed successfully.
+2024-12-25 11:33:09,965 - INFO - Send to 192.168.1.46:15600 -> SRCH:user48
+2024-12-25 11:33:09,965 - INFO - Received from 192.168.1.46 -> EXST
+2024-12-25 11:33:09,966 - INFO - User 38: Operation <lambda> completed successfully.
+2024-12-25 11:33:09,966 - INFO - Send to 192.168.1.46:15600 -> GOP
+2024-12-25 11:33:09,966 - INFO - User 36: Account created successfully.
+2024-12-25 11:33:09,966 - INFO - Received from 192.168.1.46 -> N O C R : 4 0 
+ R o o m s : r o o m u s e r 4 3 
+ r o o m u s e r 8 
+ r o o m u s e r 2 
+ r o o m u s e r 1 0 
+ r o o m u s e r 2 3 
+ r o o m u s e r 1 6 
+ r o o m u s e r 7 
+ r o o m u s e r 1 5 
+ r o o m u s e r 1 2 
+ r o o m u s e r 3 2 
+ r o o m u s e r 4 5 
+ r o o m u s e r 1 1 
+ r o o m u s e r 9 
+ r o o m u s e r 1 3 
+ r o o m u s e r 2 8 
+ r o o m u s e r 1 4 
+ r o o m u s e r 4 0 
+ r o o m 4 
+ r o o m 1 
+ r o o m 3 
+ r o o m 5 
+ r o o m 7 
+ r o o m 6 
+ r o o m 2 4 
+ r o o m 2 
+ r o o m 4 6 
+ r o o m 8 
+ r o o m 2 2 
+ r o o m 1 2 
+ r o o m 1 5 
+ r o o m 1 4 
+ r o o m 3 8 
+ r o o m 1 9 
+ r o o m 4 4 
+ r o o m 1 1 
+ r o o m 1 0 
+ r o o m 2 1 
+ r o o m 3 0 
+ r o o m 1 7 
+ r o o m 1 8 
+
+2024-12-25 11:33:09,966 - INFO - Send to 192.168.1.46:15600 -> LOG:user36:133f8a05107e5442771c85da3dec70050ae5f3273849326b4a4e2ceaab2ef058:15036
+2024-12-25 11:33:09,967 - INFO - Received from 192.168.1.46 -> N O P : 1 6 
+ P e e r s : u s e r 1 
+ u s e r 3 
+ u s e r 6 
+ u s e r 7 
+ u s e r 2 
+ u s e r 3 1 
+ u s e r 2 2 
+ u s e r 9 
+ u s e r 1 4 
+ u s e r 1 5 
+ u s e r 3 8 
+ u s e r 1 7 
+ u s e r 2 1 
+ u s e r 2 3 
+ u s e r 4 7 
+ u s e r 2 9 
+
+2024-12-25 11:33:09,967 - INFO - User 29: Operation <lambda> completed successfully.
+2024-12-25 11:33:09,967 - INFO - Send to 192.168.1.46:15600 -> GCR
+2024-12-25 11:33:09,967 - INFO - User 44: Operation <lambda> completed successfully.
+2024-12-25 11:33:09,967 - ERROR - User 44: Fatal error - can only concatenate str (not "NoneType") to str
+2024-12-25 11:33:09,968 - INFO - Received from 192.168.1.46 -> NOTEXST
+2024-12-25 11:33:09,968 - INFO - User 47: Operation <lambda> completed successfully.
+2024-12-25 11:33:09,968 - INFO - Send to 192.168.1.46:15600 -> SRCH:user31
+2024-12-25 11:33:09,970 - INFO - Received from 192.168.1.46 -> N O P : 1 8 
+ P e e r s : u s e r 1 
+ u s e r 3 
+ u s e r 6 
+ u s e r 7 
+ u s e r 2 
+ u s e r 3 1 
+ u s e r 2 2 
+ u s e r 9 
+ u s e r 1 4 
+ u s e r 1 5 
+ u s e r 3 8 
+ u s e r 1 7 
+ u s e r 2 1 
+ u s e r 2 3 
+ u s e r 4 7 
+ u s e r 2 9 
+ u s e r 3 3 
+ u s e r 3 7 
+
+2024-12-25 11:33:09,970 - INFO - Received from 192.168.1.46 -> N O C R : 4 0 
+ R o o m s : r o o m u s e r 4 3 
+ r o o m u s e r 8 
+ r o o m u s e r 2 
+ r o o m u s e r 1 0 
+ r o o m u s e r 2 3 
+ r o o m u s e r 1 6 
+ r o o m u s e r 7 
+ r o o m u s e r 1 5 
+ r o o m u s e r 1 2 
+ r o o m u s e r 3 2 
+ r o o m u s e r 4 5 
+ r o o m u s e r 1 1 
+ r o o m u s e r 9 
+ r o o m u s e r 1 3 
+ r o o m u s e r 2 8 
+ r o o m u s e r 1 4 
+ r o o m u s e r 4 0 
+ r o o m 4 
+ r o o m 1 
+ r o o m 3 
+ r o o m 5 
+ r o o m 7 
+ r o o m 6 
+ r o o m 2 4 
+ r o o m 2 
+ r o o m 4 6 
+ r o o m 8 
+ r o o m 2 2 
+ r o o m 1 2 
+ r o o m 1 5 
+ r o o m 1 4 
+ r o o m 3 8 
+ r o o m 1 9 
+ r o o m 4 4 
+ r o o m 1 1 
+ r o o m 1 0 
+ r o o m 2 1 
+ r o o m 3 0 
+ r o o m 1 7 
+ r o o m 1 8 
+
+2024-12-25 11:33:09,970 - INFO - User 26: Operation <lambda> completed successfully.
+2024-12-25 11:33:09,970 - INFO - Send to 192.168.1.46:15600 -> SRCH:user15
+2024-12-25 11:33:09,970 - INFO - Received from 192.168.1.46 -> WCRE
+2024-12-25 11:33:09,971 - INFO - User 30: Operation <lambda> completed successfully.
+2024-12-25 11:33:09,971 - INFO - Send to 192.168.1.46:15600 -> GOP
+2024-12-25 11:33:09,971 - INFO - Received from 192.168.1.46 -> N O C R : 4 0 
+ R o o m s : r o o m u s e r 4 3 
+ r o o m u s e r 8 
+ r o o m u s e r 2 
+ r o o m u s e r 1 0 
+ r o o m u s e r 2 3 
+ r o o m u s e r 1 6 
+ r o o m u s e r 7 
+ r o o m u s e r 1 5 
+ r o o m u s e r 1 2 
+ r o o m u s e r 3 2 
+ r o o m u s e r 4 5 
+ r o o m u s e r 1 1 
+ r o o m u s e r 9 
+ r o o m u s e r 1 3 
+ r o o m u s e r 2 8 
+ r o o m u s e r 1 4 
+ r o o m u s e r 4 0 
+ r o o m 4 
+ r o o m 1 
+ r o o m 3 
+ r o o m 5 
+ r o o m 7 
+ r o o m 6 
+ r o o m 2 4 
+ r o o m 2 
+ r o o m 4 6 
+ r o o m 8 
+ r o o m 2 2 
+ r o o m 1 2 
+ r o o m 1 5 
+ r o o m 1 4 
+ r o o m 3 8 
+ r o o m 1 9 
+ r o o m 4 4 
+ r o o m 1 1 
+ r o o m 1 0 
+ r o o m 2 1 
+ r o o m 3 0 
+ r o o m 1 7 
+ r o o m 1 8 
+
+2024-12-25 11:33:09,971 - INFO - Received from 192.168.1.46 -> OK
+2024-12-25 11:33:09,971 - INFO - User 27: Logged in successfully.
+2024-12-25 11:33:09,971 - INFO - Send to 192.168.1.46:15600 -> SRCH:user17
+2024-12-25 11:33:09,971 - INFO - Received from 192.168.1.46 -> EXST
+2024-12-25 11:33:09,972 - INFO - User 23: Operation <lambda> completed successfully.
+2024-12-25 11:33:09,972 - ERROR - User 18: Error during operation <lambda> - 'NoneType' object has no attribute 'isInChatRoom'
+2024-12-25 11:33:09,972 - INFO - Send to 192.168.1.46:15600 -> GCR
+2024-12-25 11:33:09,972 - INFO - Received from 192.168.1.46 -> NON
+2024-12-25 11:33:09,972 - INFO - Send to 192.168.1.46:15600 -> SRCH:user32
+2024-12-25 11:33:09,972 - INFO - Received from 192.168.1.46 -> N O P : 1 8 
+ P e e r s : u s e r 1 
+ u s e r 3 
+ u s e r 6 
+ u s e r 7 
+ u s e r 2 
+ u s e r 3 1 
+ u s e r 2 2 
+ u s e r 9 
+ u s e r 1 4 
+ u s e r 1 5 
+ u s e r 3 8 
+ u s e r 1 7 
+ u s e r 2 1 
+ u s e r 2 3 
+ u s e r 4 7 
+ u s e r 2 9 
+ u s e r 3 3 
+ u s e r 3 7 
+
+2024-12-25 11:33:09,972 - INFO - User 19: Operation <lambda> completed successfully.
+2024-12-25 11:33:09,973 - INFO - User 10: Operation <lambda> completed successfully.
+2024-12-25 11:33:09,973 - ERROR - User 19: Fatal error - can only concatenate str (not "NoneType") to str
+2024-12-25 11:33:09,973 - INFO - Send to 192.168.1.46:15600 -> GCR
+2024-12-25 11:33:09,973 - INFO - User 13: Operation <lambda> completed successfully.
+2024-12-25 11:33:09,973 - INFO - Send to 192.168.1.46:15600 -> GOP
+2024-12-25 11:33:09,974 - INFO - Received from 192.168.1.46 -> OK
+2024-12-25 11:33:09,974 - INFO - User 33: Logged in successfully.
+2024-12-25 11:33:09,975 - INFO - Received from 192.168.1.46 -> N O P : 1 8 
+ P e e r s : u s e r 1 
+ u s e r 3 
+ u s e r 6 
+ u s e r 7 
+ u s e r 2 
+ u s e r 3 1 
+ u s e r 2 2 
+ u s e r 9 
+ u s e r 1 4 
+ u s e r 1 5 
+ u s e r 3 8 
+ u s e r 1 7 
+ u s e r 2 1 
+ u s e r 2 3 
+ u s e r 4 7 
+ u s e r 2 9 
+ u s e r 3 3 
+ u s e r 3 7 
+
+2024-12-25 11:33:09,975 - INFO - Send to 192.168.1.46:15600 -> GOP
+2024-12-25 11:33:09,975 - INFO - User 38: Operation <lambda> completed successfully.
+2024-12-25 11:33:09,975 - ERROR - User 38: Fatal error - can only concatenate str (not "NoneType") to str
+2024-12-25 11:33:09,975 - INFO - Received from 192.168.1.46 -> N O C R : 4 0 
+ R o o m s : r o o m u s e r 4 3 
+ r o o m u s e r 8 
+ r o o m u s e r 2 
+ r o o m u s e r 1 0 
+ r o o m u s e r 2 3 
+ r o o m u s e r 1 6 
+ r o o m u s e r 7 
+ r o o m u s e r 1 5 
+ r o o m u s e r 1 2 
+ r o o m u s e r 3 2 
+ r o o m u s e r 4 5 
+ r o o m u s e r 1 1 
+ r o o m u s e r 9 
+ r o o m u s e r 1 3 
+ r o o m u s e r 2 8 
+ r o o m u s e r 1 4 
+ r o o m u s e r 4 0 
+ r o o m 4 
+ r o o m 1 
+ r o o m 3 
+ r o o m 5 
+ r o o m 7 
+ r o o m 6 
+ r o o m 2 4 
+ r o o m 2 
+ r o o m 4 6 
+ r o o m 8 
+ r o o m 2 2 
+ r o o m 1 2 
+ r o o m 1 5 
+ r o o m 1 4 
+ r o o m 3 8 
+ r o o m 1 9 
+ r o o m 4 4 
+ r o o m 1 1 
+ r o o m 1 0 
+ r o o m 2 1 
+ r o o m 3 0 
+ r o o m 1 7 
+ r o o m 1 8 
+
+2024-12-25 11:33:09,976 - INFO - User 29: Operation <lambda> completed successfully.
+2024-12-25 11:33:09,976 - INFO - Send to 192.168.1.46:15600 -> GCR
+2024-12-25 11:33:09,976 - INFO - Received from 192.168.1.46 -> OK
+2024-12-25 11:33:09,976 - INFO - User 37: Logged in successfully.
+2024-12-25 11:33:09,976 - INFO - Send to 192.168.1.46:15600 -> SRCH:user20
+2024-12-25 11:33:09,977 - INFO - Received from 192.168.1.46 -> EXST
+2024-12-25 11:33:09,977 - INFO - User 21: Operation <lambda> completed successfully.
+2024-12-25 11:33:09,977 - INFO - Received from 192.168.1.46 -> NON
+2024-12-25 11:33:09,977 - INFO - Send to 192.168.1.46:15600 -> SRCH:user43
+2024-12-25 11:33:09,977 - INFO - User 11: Operation <lambda> completed successfully.
+2024-12-25 11:33:09,978 - INFO - Send to 192.168.1.46:15600 -> CCR:room11:user11:62284
+2024-12-25 11:33:09,979 - INFO - Received from 192.168.1.46 -> N O P : 1 8 
+ P e e r s : u s e r 1 
+ u s e r 3 
+ u s e r 6 
+ u s e r 7 
+ u s e r 2 
+ u s e r 3 1 
+ u s e r 2 2 
+ u s e r 9 
+ u s e r 1 4 
+ u s e r 1 5 
+ u s e r 3 8 
+ u s e r 1 7 
+ u s e r 2 1 
+ u s e r 2 3 
+ u s e r 4 7 
+ u s e r 2 9 
+ u s e r 3 3 
+ u s e r 3 7 
+
+2024-12-25 11:33:09,979 - INFO - User 30: Operation <lambda> completed successfully.
+2024-12-25 11:33:09,979 - INFO - Send to 192.168.1.46:15600 -> SRCH:user10
+2024-12-25 11:33:09,981 - INFO - Received from 192.168.1.46 -> N O C R : 4 0 
+ R o o m s : r o o m u s e r 4 3 
+ r o o m u s e r 8 
+ r o o m u s e r 2 
+ r o o m u s e r 1 0 
+ r o o m u s e r 2 3 
+ r o o m u s e r 1 6 
+ r o o m u s e r 7 
+ r o o m u s e r 1 5 
+ r o o m u s e r 1 2 
+ r o o m u s e r 3 2 
+ r o o m u s e r 4 5 
+ r o o m u s e r 1 1 
+ r o o m u s e r 9 
+ r o o m u s e r 1 3 
+ r o o m u s e r 2 8 
+ r o o m u s e r 1 4 
+ r o o m u s e r 4 0 
+ r o o m 4 
+ r o o m 1 
+ r o o m 3 
+ r o o m 5 
+ r o o m 7 
+ r o o m 6 
+ r o o m 2 4 
+ r o o m 2 
+ r o o m 4 6 
+ r o o m 8 
+ r o o m 2 2 
+ r o o m 1 2 
+ r o o m 1 5 
+ r o o m 1 4 
+ r o o m 3 8 
+ r o o m 1 9 
+ r o o m 4 4 
+ r o o m 1 1 
+ r o o m 1 0 
+ r o o m 2 1 
+ r o o m 3 0 
+ r o o m 1 7 
+ r o o m 1 8 
+
+2024-12-25 11:33:09,981 - INFO - Received from 192.168.1.46 -> NON
+2024-12-25 11:33:09,982 - INFO - User 23: Operation <lambda> completed successfully.
+2024-12-25 11:33:09,982 - INFO - Send to 192.168.1.46:15600 -> GOP
+2024-12-25 11:33:09,982 - INFO - User 17: Operation <lambda> completed successfully.
+2024-12-25 11:33:09,982 - INFO - Received from 192.168.1.46 -> N O C R : 4 0 
+ R o o m s : r o o m u s e r 4 3 
+ r o o m u s e r 8 
+ r o o m u s e r 2 
+ r o o m u s e r 1 0 
+ r o o m u s e r 2 3 
+ r o o m u s e r 1 6 
+ r o o m u s e r 7 
+ r o o m u s e r 1 5 
+ r o o m u s e r 1 2 
+ r o o m u s e r 3 2 
+ r o o m u s e r 4 5 
+ r o o m u s e r 1 1 
+ r o o m u s e r 9 
+ r o o m u s e r 1 3 
+ r o o m u s e r 2 8 
+ r o o m u s e r 1 4 
+ r o o m u s e r 4 0 
+ r o o m 4 
+ r o o m 1 
+ r o o m 3 
+ r o o m 5 
+ r o o m 7 
+ r o o m 6 
+ r o o m 2 4 
+ r o o m 2 
+ r o o m 4 6 
+ r o o m 8 
+ r o o m 2 2 
+ r o o m 1 2 
+ r o o m 1 5 
+ r o o m 1 4 
+ r o o m 3 8 
+ r o o m 1 9 
+ r o o m 4 4 
+ r o o m 1 1 
+ r o o m 1 0 
+ r o o m 2 1 
+ r o o m 3 0 
+ r o o m 1 7 
+ r o o m 1 8 
+
+2024-12-25 11:33:09,982 - INFO - Received from 192.168.1.46 -> WCRE
+2024-12-25 11:33:09,982 - ERROR - User 17: Fatal error - can only concatenate str (not "NoneType") to str
+2024-12-25 11:33:09,982 - INFO - Received from 192.168.1.46 -> N O P : 1 8 
+ P e e r s : u s e r 1 
+ u s e r 3 
+ u s e r 6 
+ u s e r 7 
+ u s e r 2 
+ u s e r 3 1 
+ u s e r 2 2 
+ u s e r 9 
+ u s e r 1 4 
+ u s e r 1 5 
+ u s e r 3 8 
+ u s e r 1 7 
+ u s e r 2 1 
+ u s e r 2 3 
+ u s e r 4 7 
+ u s e r 2 9 
+ u s e r 3 3 
+ u s e r 3 7 
+
+2024-12-25 11:33:09,982 - INFO - Received from 192.168.1.46 -> NON
+2024-12-25 11:33:09,983 - INFO - Received from 192.168.1.46 -> WCRE
+2024-12-25 11:33:09,983 - INFO - User 10: Operation <lambda> completed successfully.
+2024-12-25 11:33:09,983 - INFO - Send to 192.168.1.46:15600 -> SRCH:user15
+2024-12-25 11:33:09,983 - INFO - User 13: Operation <lambda> completed successfully.
+2024-12-25 11:33:09,983 - INFO - Send to 192.168.1.46:15600 -> GCR
+2024-12-25 11:33:09,983 - INFO - Received from 192.168.1.46 -> N O C R : 4 0 
+ R o o m s : r o o m u s e r 4 3 
+ r o o m u s e r 8 
+ r o o m u s e r 2 
+ r o o m u s e r 1 0 
+ r o o m u s e r 2 3 
+ r o o m u s e r 1 6 
+ r o o m u s e r 7 
+ r o o m u s e r 1 5 
+ r o o m u s e r 1 2 
+ r o o m u s e r 3 2 
+ r o o m u s e r 4 5 
+ r o o m u s e r 1 1 
+ r o o m u s e r 9 
+ r o o m u s e r 1 3 
+ r o o m u s e r 2 8 
+ r o o m u s e r 1 4 
+ r o o m u s e r 4 0 
+ r o o m 4 
+ r o o m 1 
+ r o o m 3 
+ r o o m 5 
+ r o o m 7 
+ r o o m 6 
+ r o o m 2 4 
+ r o o m 2 
+ r o o m 4 6 
+ r o o m 8 
+ r o o m 2 2 
+ r o o m 1 2 
+ r o o m 1 5 
+ r o o m 1 4 
+ r o o m 3 8 
+ r o o m 1 9 
+ r o o m 4 4 
+ r o o m 1 1 
+ r o o m 1 0 
+ r o o m 2 1 
+ r o o m 3 0 
+ r o o m 1 7 
+ r o o m 1 8 
+
+2024-12-25 11:33:09,983 - INFO - Received from 192.168.1.46 -> N O P : 1 8 
+ P e e r s : u s e r 1 
+ u s e r 3 
+ u s e r 6 
+ u s e r 7 
+ u s e r 2 
+ u s e r 3 1 
+ u s e r 2 2 
+ u s e r 9 
+ u s e r 1 4 
+ u s e r 1 5 
+ u s e r 3 8 
+ u s e r 1 7 
+ u s e r 2 1 
+ u s e r 2 3 
+ u s e r 4 7 
+ u s e r 2 9 
+ u s e r 3 3 
+ u s e r 3 7 
+
+2024-12-25 11:33:09,984 - INFO - User 36: Logged in successfully.
+2024-12-25 11:33:09,984 - INFO - Send to 192.168.1.46:15600 -> SRCH:user20
+2024-12-25 11:33:09,984 - INFO - User 20: Logged in successfully.
+2024-12-25 11:33:09,984 - INFO - User 48: Operation <lambda> completed successfully.
+2024-12-25 11:33:09,984 - INFO - Send to 192.168.1.46:15600 -> SRCH:user25
+2024-12-25 11:33:09,984 - INFO - Received from 192.168.1.46 -> IP: 192.168.1.46:15031
+2024-12-25 11:33:09,984 - INFO - Send to 192.168.1.46:15600 -> GOP
+2024-12-25 11:33:09,984 - INFO - User 33: Operation <lambda> completed successfully.
+2024-12-25 11:33:09,984 - INFO - Send to 192.168.1.46:15600 -> GCR
+2024-12-25 11:33:09,985 - INFO - User 29: Operation <lambda> completed successfully.
+2024-12-25 11:33:09,985 - INFO - Send to 192.168.1.46:15600 -> GCR
+2024-12-25 11:33:09,985 - INFO - User 47: Operation <lambda> completed successfully.
+2024-12-25 11:33:09,985 - INFO - Send to 192.168.1.46:15600 -> GCR
+2024-12-25 11:33:09,986 - INFO - Received from 192.168.1.46 -> IP: 192.168.1.46:15015
+2024-12-25 11:33:09,986 - INFO - User 26: Operation <lambda> completed successfully.
+2024-12-25 11:33:09,986 - INFO - Received from 192.168.1.46 -> IP: 192.168.1.46:15017
+2024-12-25 11:33:09,986 - INFO - Received from 192.168.1.46 -> NON
+2024-12-25 11:33:09,987 - INFO - Send to 192.168.1.46:15600 -> CCR:room26:user26:62285
+2024-12-25 11:33:09,987 - INFO - User 27: Operation <lambda> completed successfully.
+2024-12-25 11:33:09,987 - INFO - Send to 192.168.1.46:15600 -> GCR
+2024-12-25 11:33:09,987 - INFO - Received from 192.168.1.46 -> N O P : 1 8 
+ P e e r s : u s e r 1 
+ u s e r 3 
+ u s e r 6 
+ u s e r 7 
+ u s e r 2 
+ u s e r 3 1 
+ u s e r 2 2 
+ u s e r 9 
+ u s e r 1 4 
+ u s e r 1 5 
+ u s e r 3 8 
+ u s e r 1 7 
+ u s e r 2 1 
+ u s e r 2 3 
+ u s e r 4 7 
+ u s e r 2 9 
+ u s e r 3 3 
+ u s e r 3 7 
+
+2024-12-25 11:33:09,987 - INFO - User 18: Operation <lambda> completed successfully.
+2024-12-25 11:33:09,987 - INFO - Send to 192.168.1.46:15600 -> GOP
+2024-12-25 11:33:09,987 - INFO - User 23: Operation <lambda> completed successfully.
+2024-12-25 11:33:09,987 - ERROR - User 23: Fatal error - can only concatenate str (not "NoneType") to str
+2024-12-25 11:33:09,988 - INFO - Received from 192.168.1.46 -> N O C R : 4 0 
+ R o o m s : r o o m u s e r 4 3 
+ r o o m u s e r 8 
+ r o o m u s e r 2 
+ r o o m u s e r 1 0 
+ r o o m u s e r 2 3 
+ r o o m u s e r 1 6 
+ r o o m u s e r 7 
+ r o o m u s e r 1 5 
+ r o o m u s e r 1 2 
+ r o o m u s e r 3 2 
+ r o o m u s e r 4 5 
+ r o o m u s e r 1 1 
+ r o o m u s e r 9 
+ r o o m u s e r 1 3 
+ r o o m u s e r 2 8 
+ r o o m u s e r 1 4 
+ r o o m u s e r 4 0 
+ r o o m 4 
+ r o o m 1 
+ r o o m 3 
+ r o o m 5 
+ r o o m 7 
+ r o o m 6 
+ r o o m 2 4 
+ r o o m 2 
+ r o o m 4 6 
+ r o o m 8 
+ r o o m 2 2 
+ r o o m 1 2 
+ r o o m 1 5 
+ r o o m 1 4 
+ r o o m 3 8 
+ r o o m 1 9 
+ r o o m 4 4 
+ r o o m 1 1 
+ r o o m 1 0 
+ r o o m 2 1 
+ r o o m 3 0 
+ r o o m 1 7 
+ r o o m 1 8 
+
+2024-12-25 11:33:09,989 - INFO - User 13: Operation <lambda> completed successfully.
+2024-12-25 11:33:09,989 - INFO - Send to 192.168.1.46:15600 -> CCR:room13:user13:62286
+2024-12-25 11:33:09,990 - INFO - Received from 192.168.1.46 -> N O C R : 4 0 
+ R o o m s : r o o m u s e r 4 3 
+ r o o m u s e r 8 
+ r o o m u s e r 2 
+ r o o m u s e r 1 0 
+ r o o m u s e r 2 3 
+ r o o m u s e r 1 6 
+ r o o m u s e r 7 
+ r o o m u s e r 1 5 
+ r o o m u s e r 1 2 
+ r o o m u s e r 3 2 
+ r o o m u s e r 4 5 
+ r o o m u s e r 1 1 
+ r o o m u s e r 9 
+ r o o m u s e r 1 3 
+ r o o m u s e r 2 8 
+ r o o m u s e r 1 4 
+ r o o m u s e r 4 0 
+ r o o m 4 
+ r o o m 1 
+ r o o m 3 
+ r o o m 5 
+ r o o m 7 
+ r o o m 6 
+ r o o m 2 4 
+ r o o m 2 
+ r o o m 4 6 
+ r o o m 8 
+ r o o m 2 2 
+ r o o m 1 2 
+ r o o m 1 5 
+ r o o m 1 4 
+ r o o m 3 8 
+ r o o m 1 9 
+ r o o m 4 4 
+ r o o m 1 1 
+ r o o m 1 0 
+ r o o m 2 1 
+ r o o m 3 0 
+ r o o m 1 7 
+ r o o m 1 8 
+
+2024-12-25 11:33:09,990 - INFO - Received from 192.168.1.46 -> NOTEXST
+2024-12-25 11:33:09,990 - INFO - Received from 192.168.1.46 -> N O P : 1 8 
+ P e e r s : u s e r 1 
+ u s e r 3 
+ u s e r 6 
+ u s e r 7 
+ u s e r 2 
+ u s e r 3 1 
+ u s e r 2 2 
+ u s e r 9 
+ u s e r 1 4 
+ u s e r 1 5 
+ u s e r 3 8 
+ u s e r 1 7 
+ u s e r 2 1 
+ u s e r 2 3 
+ u s e r 4 7 
+ u s e r 2 9 
+ u s e r 3 3 
+ u s e r 3 7 
+
+2024-12-25 11:33:09,991 - INFO - User 33: Operation <lambda> completed successfully.
+2024-12-25 11:33:09,991 - INFO - Received from 192.168.1.46 -> NON
+2024-12-25 11:33:09,991 - INFO - Send to 192.168.1.46:15600 -> GCR
+2024-12-25 11:33:09,991 - INFO - User 48: Operation <lambda> completed successfully.
+2024-12-25 11:33:09,991 - INFO - Send to 192.168.1.46:15600 -> GCR
+2024-12-25 11:33:09,991 - INFO - User 21: Operation <lambda> completed successfully.
+2024-12-25 11:33:09,991 - ERROR - User 21: Fatal error - can only concatenate str (not "NoneType") to str
+2024-12-25 11:33:09,992 - INFO - User 37: Operation <lambda> completed successfully.
+2024-12-25 11:33:09,992 - INFO - Received from 192.168.1.46 -> N O C R : 4 0 
+ R o o m s : r o o m u s e r 4 3 
+ r o o m u s e r 8 
+ r o o m u s e r 2 
+ r o o m u s e r 1 0 
+ r o o m u s e r 2 3 
+ r o o m u s e r 1 6 
+ r o o m u s e r 7 
+ r o o m u s e r 1 5 
+ r o o m u s e r 1 2 
+ r o o m u s e r 3 2 
+ r o o m u s e r 4 5 
+ r o o m u s e r 1 1 
+ r o o m u s e r 9 
+ r o o m u s e r 1 3 
+ r o o m u s e r 2 8 
+ r o o m u s e r 1 4 
+ r o o m u s e r 4 0 
+ r o o m 4 
+ r o o m 1 
+ r o o m 3 
+ r o o m 5 
+ r o o m 7 
+ r o o m 6 
+ r o o m 2 4 
+ r o o m 2 
+ r o o m 4 6 
+ r o o m 8 
+ r o o m 2 2 
+ r o o m 1 2 
+ r o o m 1 5 
+ r o o m 1 4 
+ r o o m 3 8 
+ r o o m 1 9 
+ r o o m 4 4 
+ r o o m 1 1 
+ r o o m 1 0 
+ r o o m 2 1 
+ r o o m 3 0 
+ r o o m 1 7 
+ r o o m 1 8 
+
+2024-12-25 11:33:09,992 - INFO - Received from 192.168.1.46 -> N O C R : 4 0 
+ R o o m s : r o o m u s e r 4 3 
+ r o o m u s e r 8 
+ r o o m u s e r 2 
+ r o o m u s e r 1 0 
+ r o o m u s e r 2 3 
+ r o o m u s e r 1 6 
+ r o o m u s e r 7 
+ r o o m u s e r 1 5 
+ r o o m u s e r 1 2 
+ r o o m u s e r 3 2 
+ r o o m u s e r 4 5 
+ r o o m u s e r 1 1 
+ r o o m u s e r 9 
+ r o o m u s e r 1 3 
+ r o o m u s e r 2 8 
+ r o o m u s e r 1 4 
+ r o o m u s e r 4 0 
+ r o o m 4 
+ r o o m 1 
+ r o o m 3 
+ r o o m 5 
+ r o o m 7 
+ r o o m 6 
+ r o o m 2 4 
+ r o o m 2 
+ r o o m 4 6 
+ r o o m 8 
+ r o o m 2 2 
+ r o o m 1 2 
+ r o o m 1 5 
+ r o o m 1 4 
+ r o o m 3 8 
+ r o o m 1 9 
+ r o o m 4 4 
+ r o o m 1 1 
+ r o o m 1 0 
+ r o o m 2 1 
+ r o o m 3 0 
+ r o o m 1 7 
+ r o o m 1 8 
+
+2024-12-25 11:33:09,992 - INFO - Send to 192.168.1.46:15600 -> CCR:room37:user37:62287
+2024-12-25 11:33:09,992 - INFO - Received from 192.168.1.46 -> EXST
+2024-12-25 11:33:09,992 - INFO - User 29: Operation <lambda> completed successfully.
+2024-12-25 11:33:09,992 - INFO - Send to 192.168.1.46:15600 -> SRCH:user23
+2024-12-25 11:33:09,993 - INFO - Received from 192.168.1.46 -> NON
+2024-12-25 11:33:09,993 - INFO - User 47: Operation <lambda> completed successfully.
+2024-12-25 11:33:09,993 - INFO - User 30: Operation <lambda> completed successfully.
+2024-12-25 11:33:09,993 - INFO - Send to 192.168.1.46:15600 -> GCR
+2024-12-25 11:33:09,993 - INFO - Send to 192.168.1.46:15600 -> CCR:room47:user47:62288
+2024-12-25 11:33:09,994 - INFO - User 11: Operation <lambda> completed successfully.
+2024-12-25 11:33:09,994 - INFO - Received from 192.168.1.46 -> N O P : 1 8 
+ P e e r s : u s e r 1 
+ u s e r 3 
+ u s e r 6 
+ u s e r 7 
+ u s e r 2 
+ u s e r 3 1 
+ u s e r 2 2 
+ u s e r 9 
+ u s e r 1 4 
+ u s e r 1 5 
+ u s e r 3 8 
+ u s e r 1 7 
+ u s e r 2 1 
+ u s e r 2 3 
+ u s e r 4 7 
+ u s e r 2 9 
+ u s e r 3 3 
+ u s e r 3 7 
+
+2024-12-25 11:33:09,994 - INFO - Send to 192.168.1.46:15600 -> GCR
+2024-12-25 11:33:09,994 - INFO - Received from 192.168.1.46 -> N O C R : 4 0 
+ R o o m s : r o o m u s e r 4 3 
+ r o o m u s e r 8 
+ r o o m u s e r 2 
+ r o o m u s e r 1 0 
+ r o o m u s e r 2 3 
+ r o o m u s e r 1 6 
+ r o o m u s e r 7 
+ r o o m u s e r 1 5 
+ r o o m u s e r 1 2 
+ r o o m u s e r 3 2 
+ r o o m u s e r 4 5 
+ r o o m u s e r 1 1 
+ r o o m u s e r 9 
+ r o o m u s e r 1 3 
+ r o o m u s e r 2 8 
+ r o o m u s e r 1 4 
+ r o o m u s e r 4 0 
+ r o o m 4 
+ r o o m 1 
+ r o o m 3 
+ r o o m 5 
+ r o o m 7 
+ r o o m 6 
+ r o o m 2 4 
+ r o o m 2 
+ r o o m 4 6 
+ r o o m 8 
+ r o o m 2 2 
+ r o o m 1 2 
+ r o o m 1 5 
+ r o o m 1 4 
+ r o o m 3 8 
+ r o o m 1 9 
+ r o o m 4 4 
+ r o o m 1 1 
+ r o o m 1 0 
+ r o o m 2 1 
+ r o o m 3 0 
+ r o o m 1 7 
+ r o o m 1 8 
+
+2024-12-25 11:33:09,994 - INFO - User 18: Operation <lambda> completed successfully.
+2024-12-25 11:33:09,994 - ERROR - User 18: Fatal error - can only concatenate str (not "NoneType") to str
+2024-12-25 11:33:09,995 - INFO - Received from 192.168.1.46 -> IP: 192.168.1.46:15015
+2024-12-25 11:33:09,995 - INFO - User 27: Operation <lambda> completed successfully.
+2024-12-25 11:33:09,995 - INFO - Received from 192.168.1.46 -> NOTEXST
+2024-12-25 11:33:09,995 - INFO - Send to 192.168.1.46:15600 -> GCR
+2024-12-25 11:33:09,995 - INFO - Received from 192.168.1.46 -> NON
+2024-12-25 11:33:09,995 - INFO - User 10: Operation <lambda> completed successfully.
+2024-12-25 11:33:09,995 - ERROR - User 10: Fatal error - can only concatenate str (not "NoneType") to str
+2024-12-25 11:33:09,996 - INFO - User 20: Operation <lambda> completed successfully.
+2024-12-25 11:33:09,996 - INFO - Send to 192.168.1.46:15600 -> SRCH:user26
+2024-12-25 11:33:09,996 - INFO - User 36: Operation <lambda> completed successfully.
+2024-12-25 11:33:09,996 - INFO - Send to 192.168.1.46:15600 -> GOP
+2024-12-25 11:33:09,997 - INFO - Received from 192.168.1.46 -> N O C R : 4 2 
+ R o o m s : r o o m u s e r 4 3 
+ r o o m u s e r 8 
+ r o o m u s e r 2 
+ r o o m u s e r 1 0 
+ r o o m u s e r 2 3 
+ r o o m u s e r 1 6 
+ r o o m u s e r 7 
+ r o o m u s e r 1 5 
+ r o o m u s e r 1 2 
+ r o o m u s e r 3 2 
+ r o o m u s e r 4 5 
+ r o o m u s e r 1 1 
+ r o o m u s e r 9 
+ r o o m u s e r 1 3 
+ r o o m u s e r 2 8 
+ r o o m u s e r 1 4 
+ r o o m u s e r 4 0 
+ r o o m 4 
+ r o o m 1 
+ r o o m 3 
+ r o o m 5 
+ r o o m 7 
+ r o o m 6 
+ r o o m 2 4 
+ r o o m 2 
+ r o o m 4 6 
+ r o o m 8 
+ r o o m 2 2 
+ r o o m 1 2 
+ r o o m 1 5 
+ r o o m 1 4 
+ r o o m 3 8 
+ r o o m 1 9 
+ r o o m 4 4 
+ r o o m 1 1 
+ r o o m 1 0 
+ r o o m 2 1 
+ r o o m 3 0 
+ r o o m 1 7 
+ r o o m 1 8 
+ r o o m 2 6 
+ r o o m 1 3 
+
+2024-12-25 11:33:09,997 - INFO - Received from 192.168.1.46 -> N O C R : 4 2 
+ R o o m s : r o o m u s e r 4 3 
+ r o o m u s e r 8 
+ r o o m u s e r 2 
+ r o o m u s e r 1 0 
+ r o o m u s e r 2 3 
+ r o o m u s e r 1 6 
+ r o o m u s e r 7 
+ r o o m u s e r 1 5 
+ r o o m u s e r 1 2 
+ r o o m u s e r 3 2 
+ r o o m u s e r 4 5 
+ r o o m u s e r 1 1 
+ r o o m u s e r 9 
+ r o o m u s e r 1 3 
+ r o o m u s e r 2 8 
+ r o o m u s e r 1 4 
+ r o o m u s e r 4 0 
+ r o o m 4 
+ r o o m 1 
+ r o o m 3 
+ r o o m 5 
+ r o o m 7 
+ r o o m 6 
+ r o o m 2 4 
+ r o o m 2 
+ r o o m 4 6 
+ r o o m 8 
+ r o o m 2 2 
+ r o o m 1 2 
+ r o o m 1 5 
+ r o o m 1 4 
+ r o o m 3 8 
+ r o o m 1 9 
+ r o o m 4 4 
+ r o o m 1 1 
+ r o o m 1 0 
+ r o o m 2 1 
+ r o o m 3 0 
+ r o o m 1 7 
+ r o o m 1 8 
+ r o o m 2 6 
+ r o o m 1 3 
+
+2024-12-25 11:33:09,998 - INFO - User 33: Operation <lambda> completed successfully.
+2024-12-25 11:33:09,998 - INFO - Send to 192.168.1.46:15600 -> GOP
+2024-12-25 11:33:09,998 - INFO - Received from 192.168.1.46 -> OK
+2024-12-25 11:33:09,999 - INFO - User 48: Operation <lambda> completed successfully.
+2024-12-25 11:33:09,999 - ERROR - User 26: Error during operation <lambda> - 'NoneType' object has no attribute 'isInChatRoom'
+2024-12-25 11:33:09,999 - INFO - Send to 192.168.1.46:15600 -> GCR
+2024-12-25 11:33:09,999 - INFO - Received from 192.168.1.46 -> N O C R : 4 3 
+ R o o m s : r o o m u s e r 4 3 
+ r o o m u s e r 8 
+ r o o m u s e r 2 
+ r o o m u s e r 1 0 
+ r o o m u s e r 2 3 
+ r o o m u s e r 1 6 
+ r o o m u s e r 7 
+ r o o m u s e r 1 5 
+ r o o m u s e r 1 2 
+ r o o m u s e r 3 2 
+ r o o m u s e r 4 5 
+ r o o m u s e r 1 1 
+ r o o m u s e r 9 
+ r o o m u s e r 1 3 
+ r o o m u s e r 2 8 
+ r o o m u s e r 1 4 
+ r o o m u s e r 4 0 
+ r o o m 4 
+ r o o m 1 
+ r o o m 3 
+ r o o m 5 
+ r o o m 7 
+ r o o m 6 
+ r o o m 2 4 
+ r o o m 2 
+ r o o m 4 6 
+ r o o m 8 
+ r o o m 2 2 
+ r o o m 1 2 
+ r o o m 1 5 
+ r o o m 1 4 
+ r o o m 3 8 
+ r o o m 1 9 
+ r o o m 4 4 
+ r o o m 1 1 
+ r o o m 1 0 
+ r o o m 2 1 
+ r o o m 3 0 
+ r o o m 1 7 
+ r o o m 1 8 
+ r o o m 2 6 
+ r o o m 1 3 
+ r o o m 3 7 
+
+2024-12-25 11:33:09,999 - INFO - Send to 192.168.1.46:15600 -> CCR:room48:user48:62289
+2024-12-25 11:33:10,000 - INFO - Received from 192.168.1.46 -> N O C R : 4 3 
+ R o o m s : r o o m u s e r 4 3 
+ r o o m u s e r 8 
+ r o o m u s e r 2 
+ r o o m u s e r 1 0 
+ r o o m u s e r 2 3 
+ r o o m u s e r 1 6 
+ r o o m u s e r 7 
+ r o o m u s e r 1 5 
+ r o o m u s e r 1 2 
+ r o o m u s e r 3 2 
+ r o o m u s e r 4 5 
+ r o o m u s e r 1 1 
+ r o o m u s e r 9 
+ r o o m u s e r 1 3 
+ r o o m u s e r 2 8 
+ r o o m u s e r 1 4 
+ r o o m u s e r 4 0 
+ r o o m 4 
+ r o o m 1 
+ r o o m 3 
+ r o o m 5 
+ r o o m 7 
+ r o o m 6 
+ r o o m 2 4 
+ r o o m 2 
+ r o o m 4 6 
+ r o o m 8 
+ r o o m 2 2 
+ r o o m 1 2 
+ r o o m 1 5 
+ r o o m 1 4 
+ r o o m 3 8 
+ r o o m 1 9 
+ r o o m 4 4 
+ r o o m 1 1 
+ r o o m 1 0 
+ r o o m 2 1 
+ r o o m 3 0 
+ r o o m 1 7 
+ r o o m 1 8 
+ r o o m 2 6 
+ r o o m 1 3 
+ r o o m 3 7 
+
+2024-12-25 11:33:10,000 - INFO - User 30: Operation <lambda> completed successfully.
+2024-12-25 11:33:10,000 - ERROR - User 30: Fatal error - can only concatenate str (not "NoneType") to str
+2024-12-25 11:33:10,001 - INFO - User 11: Operation <lambda> completed successfully.
+2024-12-25 11:33:10,001 - ERROR - User 11: Fatal error - can only concatenate str (not "NoneType") to str
+2024-12-25 11:33:10,002 - INFO - Received from 192.168.1.46 -> N O C R : 4 4 
+ R o o m s : r o o m u s e r 4 3 
+ r o o m u s e r 8 
+ r o o m u s e r 2 
+ r o o m u s e r 1 0 
+ r o o m u s e r 2 3 
+ r o o m u s e r 1 6 
+ r o o m u s e r 7 
+ r o o m u s e r 1 5 
+ r o o m u s e r 1 2 
+ r o o m u s e r 3 2 
+ r o o m u s e r 4 5 
+ r o o m u s e r 1 1 
+ r o o m u s e r 9 
+ r o o m u s e r 1 3 
+ r o o m u s e r 2 8 
+ r o o m u s e r 1 4 
+ r o o m u s e r 4 0 
+ r o o m 4 
+ r o o m 1 
+ r o o m 3 
+ r o o m 5 
+ r o o m 7 
+ r o o m 6 
+ r o o m 2 4 
+ r o o m 2 
+ r o o m 4 6 
+ r o o m 8 
+ r o o m 2 2 
+ r o o m 1 2 
+ r o o m 1 5 
+ r o o m 1 4 
+ r o o m 3 8 
+ r o o m 1 9 
+ r o o m 4 4 
+ r o o m 1 1 
+ r o o m 1 0 
+ r o o m 2 1 
+ r o o m 3 0 
+ r o o m 1 7 
+ r o o m 1 8 
+ r o o m 2 6 
+ r o o m 1 3 
+ r o o m 3 7 
+ r o o m 4 7 
+
+2024-12-25 11:33:10,002 - INFO - Received from 192.168.1.46 -> OK
+2024-12-25 11:33:10,003 - INFO - Received from 192.168.1.46 -> N O P : 1 8 
+ P e e r s : u s e r 1 
+ u s e r 3 
+ u s e r 6 
+ u s e r 7 
+ u s e r 2 
+ u s e r 3 1 
+ u s e r 2 2 
+ u s e r 9 
+ u s e r 1 4 
+ u s e r 1 5 
+ u s e r 3 8 
+ u s e r 1 7 
+ u s e r 2 1 
+ u s e r 2 3 
+ u s e r 4 7 
+ u s e r 2 9 
+ u s e r 3 3 
+ u s e r 3 7 
+
+2024-12-25 11:33:10,003 - INFO - User 27: Operation <lambda> completed successfully.
+2024-12-25 11:33:10,003 - INFO - Send to 192.168.1.46:15600 -> GOP
+2024-12-25 11:33:10,003 - INFO - User 36: Operation <lambda> completed successfully.
+2024-12-25 11:33:10,003 - INFO - Send to 192.168.1.46:15600 -> SRCH:user1
+2024-12-25 11:33:10,004 - ERROR - User 13: Error during operation <lambda> - 'NoneType' object has no attribute 'isInChatRoom'
+2024-12-25 11:33:10,004 - INFO - Send to 192.168.1.46:15600 -> SRCH:user8
+2024-12-25 11:33:10,004 - INFO - Received from 192.168.1.46 -> OK
+2024-12-25 11:33:10,004 - ERROR - User 37: Error during operation <lambda> - 'NoneType' object has no attribute 'isInChatRoom'
+2024-12-25 11:33:10,004 - INFO - Received from 192.168.1.46 -> N O P : 1 8 
+ P e e r s : u s e r 1 
+ u s e r 3 
+ u s e r 6 
+ u s e r 7 
+ u s e r 2 
+ u s e r 3 1 
+ u s e r 2 2 
+ u s e r 9 
+ u s e r 1 4 
+ u s e r 1 5 
+ u s e r 3 8 
+ u s e r 1 7 
+ u s e r 2 1 
+ u s e r 2 3 
+ u s e r 4 7 
+ u s e r 2 9 
+ u s e r 3 3 
+ u s e r 3 7 
+
+2024-12-25 11:33:10,004 - INFO - Send to 192.168.1.46:15600 -> SRCH:user14
+2024-12-25 11:33:10,005 - INFO - User 33: Operation <lambda> completed successfully.
+2024-12-25 11:33:10,005 - INFO - Received from 192.168.1.46 -> IP: 192.168.1.46:15023
+2024-12-25 11:33:10,005 - INFO - Received from 192.168.1.46 -> N O C R : 4 4 
+ R o o m s : r o o m u s e r 4 3 
+ r o o m u s e r 8 
+ r o o m u s e r 2 
+ r o o m u s e r 1 0 
+ r o o m u s e r 2 3 
+ r o o m u s e r 1 6 
+ r o o m u s e r 7 
+ r o o m u s e r 1 5 
+ r o o m u s e r 1 2 
+ r o o m u s e r 3 2 
+ r o o m u s e r 4 5 
+ r o o m u s e r 1 1 
+ r o o m u s e r 9 
+ r o o m u s e r 1 3 
+ r o o m u s e r 2 8 
+ r o o m u s e r 1 4 
+ r o o m u s e r 4 0 
+ r o o m 4 
+ r o o m 1 
+ r o o m 3 
+ r o o m 5 
+ r o o m 7 
+ r o o m 6 
+ r o o m 2 4 
+ r o o m 2 
+ r o o m 4 6 
+ r o o m 8 
+ r o o m 2 2 
+ r o o m 1 2 
+ r o o m 1 5 
+ r o o m 1 4 
+ r o o m 3 8 
+ r o o m 1 9 
+ r o o m 4 4 
+ r o o m 1 1 
+ r o o m 1 0 
+ r o o m 2 1 
+ r o o m 3 0 
+ r o o m 1 7 
+ r o o m 1 8 
+ r o o m 2 6 
+ r o o m 1 3 
+ r o o m 3 7 
+ r o o m 4 7 
+
+2024-12-25 11:33:10,006 - INFO - User 29: Operation <lambda> completed successfully.
+2024-12-25 11:33:10,006 - ERROR - User 29: Fatal error - can only concatenate str (not "NoneType") to str
+2024-12-25 11:33:10,006 - INFO - Send to 192.168.1.46:15600 -> CCR:room33:user33:62290
+2024-12-25 11:33:10,006 - INFO - Received from 192.168.1.46 -> OK
+2024-12-25 11:33:10,006 - INFO - User 26: Operation <lambda> completed successfully.
+2024-12-25 11:33:10,006 - ERROR - User 26: Fatal error - can only concatenate str (not "NoneType") to str
+2024-12-25 11:33:10,007 - ERROR - User 47: Error during operation <lambda> - 'NoneType' object has no attribute 'isInChatRoom'
+2024-12-25 11:33:10,007 - INFO - Send to 192.168.1.46:15600 -> GCR
+2024-12-25 11:33:10,007 - INFO - Received from 192.168.1.46 -> NON
+2024-12-25 11:33:10,007 - INFO - User 20: Operation <lambda> completed successfully.
+2024-12-25 11:33:10,008 - INFO - Send to 192.168.1.46:15600 -> CCR:room20:user20:62291
+2024-12-25 11:33:10,008 - INFO - Received from 192.168.1.46 -> N O P : 1 8 
+ P e e r s : u s e r 1 
+ u s e r 3 
+ u s e r 6 
+ u s e r 7 
+ u s e r 2 
+ u s e r 3 1 
+ u s e r 2 2 
+ u s e r 9 
+ u s e r 1 4 
+ u s e r 1 5 
+ u s e r 3 8 
+ u s e r 1 7 
+ u s e r 2 1 
+ u s e r 2 3 
+ u s e r 4 7 
+ u s e r 2 9 
+ u s e r 3 3 
+ u s e r 3 7 
+
+2024-12-25 11:33:10,009 - INFO - User 27: Operation <lambda> completed successfully.
+2024-12-25 11:33:10,009 - INFO - Send to 192.168.1.46:15600 -> SRCH:user34
+2024-12-25 11:33:10,010 - INFO - Received from 192.168.1.46 -> OK
+2024-12-25 11:33:10,010 - ERROR - User 48: Error during operation <lambda> - 'NoneType' object has no attribute 'isInChatRoom'
+2024-12-25 11:33:10,010 - ERROR - User 48: Fatal error - can only concatenate str (not "NoneType") to str
+2024-12-25 11:33:10,013 - INFO - Received from 192.168.1.46 -> N O C R : 4 6 
+ R o o m s : r o o m u s e r 4 3 
+ r o o m u s e r 8 
+ r o o m u s e r 2 
+ r o o m u s e r 1 0 
+ r o o m u s e r 2 3 
+ r o o m u s e r 1 6 
+ r o o m u s e r 7 
+ r o o m u s e r 1 5 
+ r o o m u s e r 1 2 
+ r o o m u s e r 3 2 
+ r o o m u s e r 4 5 
+ r o o m u s e r 1 1 
+ r o o m u s e r 9 
+ r o o m u s e r 1 3 
+ r o o m u s e r 2 8 
+ r o o m u s e r 1 4 
+ r o o m u s e r 4 0 
+ r o o m 4 
+ r o o m 1 
+ r o o m 3 
+ r o o m 5 
+ r o o m 7 
+ r o o m 6 
+ r o o m 2 4 
+ r o o m 2 
+ r o o m 4 6 
+ r o o m 8 
+ r o o m 2 2 
+ r o o m 1 2 
+ r o o m 1 5 
+ r o o m 1 4 
+ r o o m 3 8 
+ r o o m 1 9 
+ r o o m 4 4 
+ r o o m 1 1 
+ r o o m 1 0 
+ r o o m 2 1 
+ r o o m 3 0 
+ r o o m 1 7 
+ r o o m 1 8 
+ r o o m 2 6 
+ r o o m 1 3 
+ r o o m 3 7 
+ r o o m 4 7 
+ r o o m 4 8 
+ r o o m 3 3 
+
+2024-12-25 11:33:10,014 - INFO - User 47: Operation <lambda> completed successfully.
+2024-12-25 11:33:10,014 - ERROR - User 47: Fatal error - can only concatenate str (not "NoneType") to str
+2024-12-25 11:33:10,014 - INFO - Received from 192.168.1.46 -> NON
+2024-12-25 11:33:10,014 - INFO - Received from 192.168.1.46 -> IP: 192.168.1.46:15001
+2024-12-25 11:33:10,015 - INFO - User 13: Operation <lambda> completed successfully.
+2024-12-25 11:33:10,015 - ERROR - User 13: Fatal error - can only concatenate str (not "NoneType") to str
+2024-12-25 11:33:10,015 - INFO - User 36: Operation <lambda> completed successfully.
+2024-12-25 11:33:10,015 - INFO - Send to 192.168.1.46:15600 -> CCR:room36:user36:62292
+2024-12-25 11:33:10,016 - INFO - Received from 192.168.1.46 -> IP: 192.168.1.46:15014
+2024-12-25 11:33:10,016 - INFO - Received from 192.168.1.46 -> OK
+2024-12-25 11:33:10,016 - INFO - User 37: Operation <lambda> completed successfully.
+2024-12-25 11:33:10,016 - ERROR - User 33: Error during operation <lambda> - 'NoneType' object has no attribute 'isInChatRoom'
+2024-12-25 11:33:10,016 - INFO - Send to 192.168.1.46:15600 -> CCR:room37:user37:62293
+2024-12-25 11:33:10,016 - ERROR - User 33: Fatal error - can only concatenate str (not "NoneType") to str
+2024-12-25 11:33:10,018 - INFO - Received from 192.168.1.46 -> OK
+2024-12-25 11:33:10,018 - INFO - Received from 192.168.1.46 -> NON
+2024-12-25 11:33:10,018 - INFO - User 27: Operation <lambda> completed successfully.
+2024-12-25 11:33:10,018 - ERROR - User 27: Fatal error - can only concatenate str (not "NoneType") to str
+2024-12-25 11:33:10,018 - ERROR - User 20: Error during operation <lambda> - 'NoneType' object has no attribute 'isInChatRoom'
+2024-12-25 11:33:10,019 - INFO - Send to 192.168.1.46:15600 -> SRCH:user32
+2024-12-25 11:33:10,023 - INFO - Received from 192.168.1.46 -> OK
+2024-12-25 11:33:10,023 - ERROR - User 36: Error during operation <lambda> - 'NoneType' object has no attribute 'isInChatRoom'
+2024-12-25 11:33:10,023 - INFO - Send to 192.168.1.46:15600 -> CCR:room36:user36:62294
+2024-12-25 11:33:10,024 - INFO - Received from 192.168.1.46 -> EXST
+2024-12-25 11:33:10,024 - INFO - User 37: Operation <lambda> completed successfully.
+2024-12-25 11:33:10,024 - INFO - Send to 192.168.1.46:15600 -> CCR:room37:user37:62295
+2024-12-25 11:33:10,026 - INFO - Received from 192.168.1.46 -> NON
+2024-12-25 11:33:10,026 - INFO - User 20: Operation <lambda> completed successfully.
+2024-12-25 11:33:10,026 - INFO - Send to 192.168.1.46:15600 -> CCR:room20:user20:62296
+2024-12-25 11:33:10,030 - INFO - Received from 192.168.1.46 -> EXST
+2024-12-25 11:33:10,031 - INFO - User 36: Operation <lambda> completed successfully.
+2024-12-25 11:33:10,031 - ERROR - User 36: Fatal error - can only concatenate str (not "NoneType") to str
+2024-12-25 11:33:10,031 - INFO - Received from 192.168.1.46 -> EXST
+2024-12-25 11:33:10,032 - INFO - User 37: Operation <lambda> completed successfully.
+2024-12-25 11:33:10,032 - ERROR - User 37: Fatal error - can only concatenate str (not "NoneType") to str
+2024-12-25 11:33:10,033 - INFO - Received from 192.168.1.46 -> EXST
+2024-12-25 11:33:10,034 - INFO - User 20: Operation <lambda> completed successfully.
+2024-12-25 11:33:10,034 - ERROR - User 20: Fatal error - can only concatenate str (not "NoneType") to str
+2024-12-25 11:33:10,381 - INFO - Send to 192.168.1.46:15600 -> CRT:user40:d88a53cd8ffe65ab18d2c62882479559aa781642ce7a8d340b22fc0a637b0359
+2024-12-25 11:33:10,381 - INFO - Send to 192.168.1.46:15600 -> CRT:user43:db9aa0719dbf5cac40e44b268042014e9bc28b4134df9051a35f8c64f6603b6f
+2024-12-25 11:33:10,390 - INFO - Received from 192.168.1.46 -> EXST
+2024-12-25 11:33:10,390 - INFO - User 40: Account created successfully.
+2024-12-25 11:33:10,390 - INFO - Send to 192.168.1.46:15600 -> LOG:user40:d88a53cd8ffe65ab18d2c62882479559aa781642ce7a8d340b22fc0a637b0359:15040
+2024-12-25 11:33:10,391 - INFO - Received from 192.168.1.46 -> OK
+2024-12-25 11:33:10,391 - INFO - User 43: Account created successfully.
+2024-12-25 11:33:10,392 - INFO - Send to 192.168.1.46:15600 -> LOG:user43:db9aa0719dbf5cac40e44b268042014e9bc28b4134df9051a35f8c64f6603b6f:15043
+2024-12-25 11:33:10,397 - INFO - Received from 192.168.1.46 -> WCRE
+2024-12-25 11:33:10,398 - INFO - User 40: Logged in successfully.
+2024-12-25 11:33:10,398 - INFO - Send to 192.168.1.46:15600 -> SRCH:user4
+2024-12-25 11:33:10,399 - INFO - Received from 192.168.1.46 -> OK
+2024-12-25 11:33:10,399 - INFO - User 43: Logged in successfully.
+2024-12-25 11:33:10,400 - INFO - Send to 192.168.1.46:15600 -> CCR:room43:user43:62299
+2024-12-25 11:33:10,405 - INFO - Received from 192.168.1.46 -> NON
+2024-12-25 11:33:10,405 - INFO - User 40: Operation <lambda> completed successfully.
+2024-12-25 11:33:10,405 - INFO - Send to 192.168.1.46:15600 -> SRCH:user35
+2024-12-25 11:33:10,406 - INFO - Received from 192.168.1.46 -> OK
+2024-12-25 11:33:10,406 - ERROR - User 43: Error during operation <lambda> - 'NoneType' object has no attribute 'isInChatRoom'
+2024-12-25 11:33:10,407 - INFO - Send to 192.168.1.46:15600 -> GOP
+2024-12-25 11:33:10,410 - INFO - Received from 192.168.1.46 -> N O P : 1 9 
+ P e e r s : u s e r 1 
+ u s e r 3 
+ u s e r 6 
+ u s e r 7 
+ u s e r 2 
+ u s e r 3 1 
+ u s e r 2 2 
+ u s e r 9 
+ u s e r 1 4 
+ u s e r 1 5 
+ u s e r 3 8 
+ u s e r 1 7 
+ u s e r 2 1 
+ u s e r 2 3 
+ u s e r 4 7 
+ u s e r 2 9 
+ u s e r 3 3 
+ u s e r 3 7 
+ u s e r 4 3 
+
+2024-12-25 11:33:10,410 - INFO - User 43: Operation <lambda> completed successfully.
+2024-12-25 11:33:10,411 - INFO - Send to 192.168.1.46:15600 -> CCR:room43:user43:62300
+2024-12-25 11:33:10,411 - INFO - Received from 192.168.1.46 -> NON
+2024-12-25 11:33:10,411 - INFO - User 40: Operation <lambda> completed successfully.
+2024-12-25 11:33:10,412 - INFO - Send to 192.168.1.46:15600 -> CCR:room40:user40:62301
+2024-12-25 11:33:10,418 - INFO - Received from 192.168.1.46 -> EXST
+2024-12-25 11:33:10,418 - INFO - User 43: Operation <lambda> completed successfully.
+2024-12-25 11:33:10,418 - INFO - Send to 192.168.1.46:15600 -> CCR:room43:user43:62302
+2024-12-25 11:33:10,418 - INFO - Received from 192.168.1.46 -> OK
+2024-12-25 11:33:10,419 - ERROR - User 40: Error during operation <lambda> - 'NoneType' object has no attribute 'isInChatRoom'
+2024-12-25 11:33:10,419 - INFO - Send to 192.168.1.46:15600 -> CCR:room40:user40:62303
+2024-12-25 11:33:10,425 - INFO - Received from 192.168.1.46 -> EXST
+2024-12-25 11:33:10,425 - INFO - User 43: Operation <lambda> completed successfully.
+2024-12-25 11:33:10,425 - INFO - Received from 192.168.1.46 -> EXST
+2024-12-25 11:33:10,425 - INFO - Send to 192.168.1.46:15600 -> CCR:room43:user43:62304
+2024-12-25 11:33:10,425 - INFO - User 40: Operation <lambda> completed successfully.
+2024-12-25 11:33:10,426 - INFO - Send to 192.168.1.46:15600 -> CCR:room40:user40:62305
+2024-12-25 11:33:10,431 - INFO - Received from 192.168.1.46 -> EXST
+2024-12-25 11:33:10,432 - INFO - Received from 192.168.1.46 -> EXST
+2024-12-25 11:33:10,432 - INFO - User 43: Operation <lambda> completed successfully.
+2024-12-25 11:33:10,432 - ERROR - User 43: Fatal error - can only concatenate str (not "NoneType") to str
+2024-12-25 11:33:10,432 - INFO - User 40: Operation <lambda> completed successfully.
+2024-12-25 11:33:10,433 - ERROR - User 40: Fatal error - can only concatenate str (not "NoneType") to str
+2024-12-25 11:33:10,433 - INFO - Soak testing completed.
